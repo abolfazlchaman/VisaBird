@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VisaBird - Find Visa Sponsorship Opportunities</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+        }
+        
+        .hero-gradient {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .search-card {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        
+        .feature-icon {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 12px;
+        }
+        
+        .job-card:hover {
+            transform: translateY(-5px);
+            transition: all 0.3s ease;
+        }
+        
+        .dark-mode {
+            background-color: #1a202c;
+            color: #f7fafc;
+        }
+        
+        .dark-mode .bg-white {
+            background-color: #2d3748;
+        }
+        
+        .dark-mode .bg-gray-50 {
+            background-color: #1a202c;
+        }
+        
+        .dark-mode .bg-gray-800 {
+            background-color: #1a202c;
+        }
+        
+        .dark-mode .text-gray-800 {
+            color: #f7fafc;
+        }
+        
+        .dark-mode .text-gray-600 {
+            color: #cbd5e0;
+        }
+        
+        .dark-mode .border-gray-200 {
+            border-color: #4a5568;
+        }
+        
+        .dark-mode .bg-blue-100 {
+            background-color: #2c5282;
+        }
+        
+        .dark-mode .text-blue-600 {
+            color: #90cdf4;
+        }
+        
+        .dark-mode .bg-green-100 {
+            background-color: #276749;
+        }
+        
+        .dark-mode .text-green-800 {
+            color: #9ae6b4;
+        }
+        
+        .dark-mode .bg-purple-100 {
+            background-color: #553c9a;
+        }
+        
+        .dark-mode .text-purple-600 {
+            color: #b794f4;
+        }
+        
+        .dark-mode .bg-gray-100 {
+            background-color: #2d3748;
+        }
+        
+        .dark-mode .border-gray-100 {
+            border-color: #4a5568;
+        }
+        
+        .dark-mode .bg-gray-700 {
+            background-color: #4a5568;
+        }
+        
+        .dark-mode .bg-gray-900 {
+            background-color: #1a202c;
+        }
+        
+        .dark-mode .prose {
+            color: #cbd5e0;
+        }
+        
+        .dark-mode .bg-blue-600 {
+            background-color: #2b6cb0;
+        }
+        
+        .dark-mode .hover\:bg-blue-700:hover {
+            background-color: #2c5282;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-white shadow-sm dark:bg-gray-800">
+        <div class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <i class="fas fa-dove text-blue-600 dark:text-blue-400 text-2xl"></i>
+                <span class="text-xl font-bold text-gray-800 dark:text-white">VisaBird</span>
+            </div>
+            
+            <nav class="hidden md:flex space-x-8">
+                <a href="#search" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Search</a>
+                <a href="#features" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Features</a>
+                <a href="#about" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">About</a>
+                <a href="https://jobs.visabird.ir" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Jobs</a>
+            </nav>
+            
+            <div class="flex items-center space-x-4">
+                <button id="darkModeToggle" class="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <a href="https://jobs.visabird.ir" class="hidden md:block bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium transition">
+                    Find Jobs
+                </a>
+                <button class="md:hidden text-gray-600 dark:text-gray-300" id="mobileMenuButton">
+                    <i class="fas fa-bars text-xl"></i>
+                </button>
+            </div>
+        </div>
+        
+        <!-- Mobile menu -->
+        <div id="mobileMenu" class="hidden md:hidden bg-white dark:bg-gray-800 py-4 px-4 shadow-lg">
+            <div class="flex flex-col space-y-3">
+                <a href="#search" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Search</a>
+                <a href="#features" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Features</a>
+                <a href="#about" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">About</a>
+                <a href="https://jobs.visabird.ir" class="text-gray-600 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition">Jobs</a>
+                <a href="https://jobs.visabird.ir" class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium text-center transition">
+                    Find Jobs
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-gradient min-h-[70vh] flex items-center justify-center text-white">
+        <div class="container mx-auto px-4 py-16 text-center">
+            <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">Find Visa Sponsorship Opportunities for Your Dream Job</h1>
+            <p class="text-xl md:text-2xl mb-10 max-w-3xl mx-auto">Easily search for companies that sponsor work visas in the UK, Canada, Germany, and more.</p>
+            <div class="flex flex-col sm:flex-row justify-center gap-4">
+                <a href="#search" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-bold text-lg transition">
+                    Start Searching
+                </a>
+                <a href="https://jobs.visabird.ir" class="bg-white hover:bg-gray-100 text-blue-600 px-8 py-4 rounded-lg font-bold text-lg transition">
+                    Browse Jobs
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Search Section -->
+    <section id="search" class="py-16 bg-white dark:bg-gray-800">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">Find Companies That Sponsor Visas</h2>
+                <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">Filter by country, company, or industry to find your perfect opportunity.</p>
+            </div>
+            
+            <div class="max-w-5xl mx-auto bg-gray-50 dark:bg-gray-700 p-6 rounded-xl search-card">
+                <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                    <div>
+                        <label class="block text-gray-700 dark:text-gray-300 mb-2">Country</label>
+                        <select class="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
+                            <option value="">All Countries</option>
+                            <option value="uk">United Kingdom</option>
+                            <option value="canada">Canada</option>
+                            <option value="germany">Germany</option>
+                            <option value="usa">United States</option>
+                            <option value="australia">Australia</option>
+                        </select>
+                    </div>
+                    
+                    <div>
+                        <label class="block text-gray-700 dark:text-gray-300 mb-2">Industry</label>
+                        <select class="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
+                            <option value="">All Industries</option>
+                            <option value="tech">Technology</option>
+                            <option value="healthcare">Healthcare</option>
+                            <option value="finance">Finance</option>
+                            <option value="engineering">Engineering</option>
+                            <option value="education">Education</option>
+                        </select>
+                    </div>
+                    
+                    <div>
+                        <label class="block text-gray-700 dark:text-gray-300 mb-2">Visa Type</label>
+                        <select class="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
+                            <option value="">All Visa Types</option>
+                            <option value="work">Work Visa</option>
+                            <option value="skilled">Skilled Worker</option>
+                            <option value="intra">Intra-Company Transfer</option>
+                            <option value="student">Student Visa</option>
+                        </select>
+                    </div>
+                    
+                    <div class="flex items-end">
+                        <button class="w-full bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium transition">
+                            Search
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Results -->
+            <div class="mt-16">
+                <h3 class="text-2xl font-semibold text-gray-800 dark:text-white mb-6">Recent Visa Sponsors</h3>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <!-- Job Card 1 -->
+                    <div class="bg-white dark:bg-gray-700 p-6 rounded-xl shadow-md border border-gray-100 dark:border-gray-600 job-card transition">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-4">
+                                <i class="fas fa-building text-blue-600 dark:text-blue-400 text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800 dark:text-white">Google</h4>
+                                <p class="text-gray-600 dark:text-gray-300 text-sm">Technology</p>
+                            </div>
+                        </div>
+                        <div class="mb-4">
+                            <span class="inline-block bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-300 text-xs px-2 py-1 rounded-full font-medium">Visa Sponsor</span>
+                            <span class="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-300 text-xs px-2 py-1 rounded-full font-medium ml-2">UK, USA, Canada</span>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 mb-4">Google frequently sponsors work visas for software engineers, product managers, and data scientists across multiple countries.</p>
+                        <a href="#" class="text-blue-600 dark:text-blue-400 font-medium hover:underline">View Details</a>
+                    </div>
+                    
+                    <!-- Job Card 2 -->
+                    <div class="bg-white dark:bg-gray-700 p-6 rounded-xl shadow-md border border-gray-100 dark:border-gray-600 job-card transition">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-4">
+                                <i class="fas fa-hospital text-blue-600 dark:text-blue-400 text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800 dark:text-white">NHS</h4>
+                                <p class="text-gray-600 dark:text-gray-300 text-sm">Healthcare</p>
+                            </div>
+                        </div>
+                        <div class="mb-4">
+                            <span class="inline-block bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-300 text-xs px-2 py-1 rounded-full font-medium">Visa Sponsor</span>
+                            <span class="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-300 text-xs px-2 py-1 rounded-full font-medium ml-2">UK</span>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 mb-4">The UK National Health Service sponsors visas for doctors, nurses, and healthcare professionals through their shortage occupation list.</p>
+                        <a href="#" class="text-blue-600 dark:text-blue-400 font-medium hover:underline">View Details</a>
+                    </div>
+                    
+                    <!-- Job Card 3 -->
+                    <div class="bg-white dark:bg-gray-700 p-6 rounded-xl shadow-md border border-gray-100 dark:border-gray-600 job-card transition">
+                        <div class="flex items-center mb-4">
+                            <div class="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-4">
+                                <i class="fas fa-university text-blue-600 dark:text-blue-400 text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800 dark:text-white">University of Toronto</h4>
+                                <p class="text-gray-600 dark:text-gray-300 text-sm">Education</p>
+                            </div>
+                        </div>
+                        <div class="mb-4">
+                            <span class="inline-block bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-300 text-xs px-2 py-1 rounded-full font-medium">Visa Sponsor</span>
+                            <span class="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-300 text-xs px-2 py-1 rounded-full font-medium ml-2">Canada</span>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 mb-4">This leading Canadian university sponsors visas for academic staff, researchers, and postdoctoral fellows in various disciplines.</p>
+                        <a href="#" class="text-blue-600 dark:text-blue-400 font-medium hover:underline">View Details</a>
+                    </div>
+                </div>
+                
+                <div class="text-center mt-10">
+                    <a href="https://jobs.visabird.ir" class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-medium transition">
+                        View All Sponsors
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="py-16 bg-gray-50 dark:bg-gray-800">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">Why Use VisaBird?</h2>
+                <p class="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">Our platform makes finding visa sponsorship opportunities simple and efficient.</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+                <!-- Feature 1 -->
+                <div class="bg-white dark:bg-gray-700 p-8 rounded-xl shadow-sm border border-gray-100 dark:border-gray-600">
+                    <div class="feature-icon bg-blue-100 dark:bg-blue-900 text-blue-600 dark:text-blue-400 mb-6">
+                        <i class="fas fa-search text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 dark:text-white mb-3">Comprehensive Search</h3>
+                    <p class="text-gray-600 dark:text-gray-300">Filter companies by country, industry, and visa type to find exactly what you're looking for.</p>
+                </div>
+                
+                <!-- Feature 2 -->
+                <div class="bg-white dark:bg-gray-700 p-8 rounded-xl shadow-sm border border-gray-100 dark:border-gray-600">
+                    <div class="feature-icon bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400 mb-6">
+                        <i class="fas fa-users text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 dark:text-white mb-3">Community-Powered</h3>
+                    <p class="text-gray-600 dark:text-gray-300">Our data is continuously updated by a global community of contributors sharing their experiences.</p>
+                </div>
+                
+                <!-- Feature 3 -->
+                <div class="bg-white dark:bg-gray-700 p-8 rounded-xl shadow-sm border border-gray-100 dark:border-gray-600">
+                    <div class="feature-icon bg-purple-100 dark:bg-purple-900 text-purple-600 dark:text-purple-400 mb-6">
+                        <i class="fas fa-bell text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 dark:text-white mb-3">Real-Time Updates</h3>
+                    <p class="text-gray-600 dark:text-gray-300">Get notified when new visa sponsorship opportunities become available in your field.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-16 bg-white dark:bg-gray-800">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">About VisaBird</h2>
+                    <p class="text-xl text-gray-600 dark:text-gray-300">Our mission is to make global career opportunities accessible to everyone.</p>
+                </div>
+                
+                <div class="prose max-w-none text-gray-600 dark:text-gray-300 mb-10">
+                    <p>VisaBird was created to solve a common problem faced by international job seekers: finding companies that are willing to sponsor work visas can be incredibly difficult and time-consuming.</p>
+                    <p>Our platform aggregates data from multiple sources, including government records, company reports, and community contributions, to provide the most comprehensive database of visa-sponsoring companies available.</p>
+                    <p>We believe that talent should be able to flow freely across borders, and we're committed to making that process as transparent and straightforward as possible.</p>
+                </div>
+                
+                <div class="bg-gray-50 dark:bg-gray-700 p-6 rounded-xl">
+                    <h3 class="text-xl font-bold text-gray-800 dark:text-white mb-4">Contribute to VisaBird</h3>
+                    <p class="text-gray-600 dark:text-gray-300 mb-4">VisaBird is an open project that welcomes contributions from developers and data enthusiasts.</p>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <a href="#" class="bg-gray-800 hover:bg-gray-900 text-white px-6 py-3 rounded-lg font-medium transition flex items-center justify-center">
+                            <i class="fab fa-github mr-2"></i> Data Repository
+                        </a>
+                        <a href="#" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium transition flex items-center justify-center">
+                            <i class="fab fa-github mr-2"></i> Website Code
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center space-x-2 mb-4">
+                        <i class="fas fa-dove text-blue-400 text-2xl"></i>
+                        <span class="text-xl font-bold">VisaBird</span>
+                    </div>
+                    <p class="text-gray-400">Helping you find visa sponsorship opportunities worldwide.</p>
+                </div>
+                
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Navigation</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#search" class="text-gray-400 hover:text-white transition">Search</a></li>
+                        <li><a href="#features" class="text-gray-400 hover:text-white transition">Features</a></li>
+                        <li><a href="#about" class="text-gray-400 hover:text-white transition">About</a></li>
+                        <li><a href="https://jobs.visabird.ir" class="text-gray-400 hover:text-white transition">Jobs</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Legal</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Privacy Policy</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Terms of Service</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white transition">Cookie Policy</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Connect</h4>
+                    <div class="flex space-x-4 mb-4">
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-twitter text-xl"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-linkedin text-xl"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition"><i class="fab fa-github text-xl"></i></a>
+                    </div>
+                    <p class="text-gray-400">Subscribe to our newsletter for updates</p>
+                    <div class="mt-2 flex">
+                        <input type="email" placeholder="Your email" class="px-4 py-2 rounded-l-lg bg-gray-700 text-white focus:outline-none w-full">
+                        <button class="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-r-lg">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
+                <p class="text-gray-400 mb-4 md:mb-0">© 2023 VisaBird. All rights reserved.</p>
+                <p class="text-gray-400">Made with <i class="fas fa-heart text-red-400"></i> by the VisaBird team</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu toggle
+        const mobileMenuButton = document.getElementById('mobileMenuButton');
+        const mobileMenu = document.getElementById('mobileMenu');
+        
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+        
+        // Dark mode toggle
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const html = document.documentElement;
+        
+        darkModeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark-mode');
+            
+            if (html.classList.contains('dark-mode')) {
+                darkModeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+                localStorage.setItem('darkMode', 'enabled');
+            } else {
+                darkModeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+                localStorage.setItem('darkMode', 'disabled');
+            }
+        });
+        
+        // Check for saved dark mode preference
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            html.classList.add('dark-mode');
+            darkModeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+        }
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+                
+                // Close mobile menu if open
+                if (!mobileMenu.classList.contains('hidden')) {
+                    mobileMenu.classList.add('hidden');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
