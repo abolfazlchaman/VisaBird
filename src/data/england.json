@@ -1,7 +1,7 @@
 [
   {
     "name": "GameCare",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "Non-profit Organizations",
     "city": "London",
     "number-of-employees": "500",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Vodafone",
-    "year-of-make": "1982",
+    "year-founded": "1982",
     "industry": "Telecommunications",
     "city": "London",
     "number-of-employees": "130000",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Geeks LTD",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "IT Services and IT Consulting",
     "city": "Sutton",
     "number-of-employees": "200",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Unilever",
-    "year-of-make": "1872",
+    "year-founded": "1872",
     "industry": "Manufacturing",
     "city": "Blackfriars",
     "number-of-employees": "110000",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Wise",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "Financial Services",
     "city": "London",
     "number-of-employees": "5000",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Jaja Finance",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Financial Services",
     "city": "London",
     "number-of-employees": "200",

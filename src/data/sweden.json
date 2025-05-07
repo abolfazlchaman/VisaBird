@@ -1,7 +1,7 @@
 [
   {
     "name": "Oneflow",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Software Development",
     "city": "Stockholm",
     "number-of-employees": "300",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Digital Route AB",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "IT Services and IT Consulting",
     "city": "Stockholm",
     "number-of-employees": "300",
@@ -19,7 +19,7 @@
   },
   {
     "name": "LeoVegas",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Gambling Facilities and Casinos",
     "city": "Stockholm",
     "number-of-employees": "1000",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Soltia AB",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "IT Services and IT Consulting",
     "city": "Stockholm",
     "number-of-employees": "100",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Accedo",
-    "year-of-make": "2004",
+    "year-founded": "2004",
     "industry": "Software Development",
     "city": "Stockholm",
     "number-of-employees": "1000",
@@ -46,7 +46,7 @@
   },
   {
     "name": "DoWhile",
-    "year-of-make": "2017",
+    "year-founded": "2017",
     "industry": "Software Development",
     "city": "Gothenburg",
     "number-of-employees": "100",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Epidemic Sound",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Musicians",
     "city": "Stockholm",
     "number-of-employees": "1000",
@@ -64,7 +64,7 @@
   },
   {
     "name": "King",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Entertainment Providers",
     "city": "Stockholm",
     "number-of-employees": "4000",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Klarna",
-    "year-of-make": "2005",
+    "year-founded": "2005",
     "industry": "Software Development",
     "city": "Stockholm",
     "number-of-employees": "6000",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Rebtel",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Internet Publishing",
     "city": "Stockholm",
     "number-of-employees": "100",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Spotify",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Musicians",
     "city": "Stockholm",
     "number-of-employees": "14000",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Tele2",
-    "year-of-make": "1993",
+    "year-founded": "1993",
     "industry": "Telecommunications",
     "city": "Kista",
     "number-of-employees": "6000",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Truecaller",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Technology, Information and Internet",
     "city": "Norrmalm",
     "number-of-employees": "600",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Explipro",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Consulting company",
     "city": "Gothenburg",
     "number-of-employees": "50",

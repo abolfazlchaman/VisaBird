@@ -1,7 +1,7 @@
 [
   {
     "name": "DataChef",
-    "year-of-make": "2019",
+    "year-founded": "2019",
     "industry": "Information Technology & Services",
     "city": "Amesterdam",
     "number-of-employees": "50",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Leaseweb",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "IT Services and IT Consulting",
     "city": "Amesterdam",
     "number-of-employees": "1000",
@@ -19,7 +19,7 @@
   },
   {
     "name": "DPGMedia",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Media Production",
     "city": "Amsterdam",
     "number-of-employees": "3000",
@@ -28,7 +28,7 @@
   },
   {
     "name": "IO Consultancy",
-    "year-of-make": "2005",
+    "year-founded": "2005",
     "industry": "Technology, Information and Internet",
     "city": "Amesterdam",
     "number-of-employees": "5000",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Touchtribe",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "Technology, Information and Internet",
     "city": "Amesterdam",
     "number-of-employees": "50",
@@ -46,7 +46,7 @@
   },
   {
     "name": "ING",
-    "year-of-make": "1918",
+    "year-founded": "1918",
     "industry": "Banking",
     "city": "Amsterdam",
     "number-of-employees": "70000",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Profoto",
-    "year-of-make": "1970",
+    "year-founded": "1970",
     "industry": "Appliances, Electrical, and Electronics Manufacturing",
     "city": "Amesterdam",
     "number-of-employees": "300",
@@ -64,7 +64,7 @@
   },
   {
     "name": "AIHR",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Human Resources Services",
     "city": "Rotterdam",
     "number-of-employees": "200",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Mobiquity",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "IT Services and IT Consulting",
     "city": "Amesterdam",
     "number-of-employees": "300",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Backbase",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Financial Services",
     "city": "Amesterdam",
     "number-of-employees": "2000",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Flow Traders",
-    "year-of-make": "2004",
+    "year-founded": "2004",
     "industry": "Financial Services",
     "city": "Amesterdam",
     "number-of-employees": "1000",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Farm21",
-    "year-of-make": "2017",
+    "year-founded": "2017",
     "industry": "Software Development",
     "city": "Amsterdam",
     "number-of-employees": "50",
@@ -109,7 +109,7 @@
   },
   {
     "name": "JustEatTakeaway.com",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "Software Development",
     "city": "Amesterdam",
     "number-of-employees": "15000",
@@ -118,7 +118,7 @@
   },
   {
     "name": "Lunatech",
-    "year-of-make": "1993",
+    "year-founded": "1993",
     "industry": "Software Development",
     "city": "Rotterdam",
     "number-of-employees": "200",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Catawiki",
-    "year-of-make": "2008",
+    "year-founded": "2008",
     "industry": "Internet Publishing",
     "city": "Amesterdam",
     "number-of-employees": "1000",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Studocu",
-    "year-of-make": "2010",
+    "year-founded": "2010",
     "industry": "E-learning",
     "city": "Amesterdam",
     "number-of-employees": "200",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Bunq",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Banking",
     "city": "Amesterdam",
     "number-of-employees": "500",
@@ -154,7 +154,7 @@
   },
   {
     "name": "NN",
-    "year-of-make": "1880",
+    "year-founded": "1880",
     "industry": "Financial Services",
     "city": "The Hague",
     "number-of-employees": "10000",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Nearfield Instruments",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Semiconductors",
     "city": "Rotterdam",
     "number-of-employees": "300",
@@ -172,7 +172,7 @@
   },
   {
     "name": "Code nomadas",
-    "year-of-make": "2017",
+    "year-founded": "2017",
     "industry": "Information Technology & Services",
     "city": "Amesterdam",
     "number-of-employees": "50",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Mollie",
-    "year-of-make": "2004",
+    "year-founded": "2004",
     "industry": "Financial Services",
     "city": "Amsterdam",
     "number-of-employees": "1000",
@@ -190,7 +190,7 @@
   },
   {
     "name": "bol.com",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Retail",
     "city": "Amesterdam",
     "number-of-employees": "1000",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Knab",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Financial Services",
     "city": "Amesterdam",
     "number-of-employees": "1000",
@@ -208,7 +208,7 @@
   },
   {
     "name": "ASML",
-    "year-of-make": "1984",
+    "year-founded": "1984",
     "industry": "Semiconductor Manufacturing",
     "city": "Veldhoven",
     "number-of-employees": "35000",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Company.info",
-    "year-of-make": "1998",
+    "year-founded": "1998",
     "industry": "IT Services and IT Consulting",
     "city": "Amesterdam",
     "number-of-employees": "200",
@@ -226,7 +226,7 @@
   },
   {
     "name": "Eurail",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Travel Arrangements",
     "city": "Utrecht",
     "number-of-employees": "200",
@@ -235,7 +235,7 @@
   },
   {
     "name": "Picnic",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Retail",
     "city": "Amsterdam",
     "number-of-employees": "3500",
@@ -244,7 +244,7 @@
   },
   {
     "name": "Albelli",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Software Development",
     "city": "Amsterdam",
     "number-of-employees": "1000",
@@ -253,7 +253,7 @@
   },
   {
     "name": "AG5 Skills Management Software",
-    "year-of-make": "2019",
+    "year-founded": "2019",
     "industry": "IT Services and IT Consulting",
     "city": "Amsterdam",
     "number-of-employees": "50",
@@ -262,7 +262,7 @@
   },
   {
     "name": "dé VakantieDiscounter",
-    "year-of-make": "1996",
+    "year-founded": "1996",
     "industry": "Travel Arrangements",
     "city": "Amsterdam",
     "number-of-employees": "2000",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Adevinta",
-    "year-of-make": "2019",
+    "year-founded": "2019",
     "industry": "Internet Publishing",
     "city": "Amesterdam",
     "number-of-employees": "200",
@@ -280,7 +280,7 @@
   },
   {
     "name": "Media.Monks",
-    "year-of-make": "2001",
+    "year-founded": "2001",
     "industry": "Advertising Services",
     "city": "Hilversum",
     "number-of-employees": "7000",
@@ -289,7 +289,7 @@
   },
   {
     "name": "team.blue",
-    "year-of-make": "2019",
+    "year-founded": "2019",
     "industry": "Technology, Information and Internet",
     "city": "Ghent, Flemish Region",
     "number-of-employees": "5000",
@@ -298,7 +298,7 @@
   },
   {
     "name": "coolBlue",
-    "year-of-make": "1999",
+    "year-founded": "1999",
     "industry": "Computers and Electronics Manufacturing",
     "city": "Rotterdam, Zuid-Holland",
     "number-of-employees": "5000",

@@ -1,7 +1,7 @@
 [
   {
     "name": "Amadeus",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "IT Services and IT Consulting",
     "city": "Madrid",
     "number-of-employees": "16000",
@@ -10,7 +10,7 @@
   },
   {
     "name": "eDreams ODIGEO",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "Travel and E-commerce",
     "city": "Barcelona",
     "number-of-employees": "5000",

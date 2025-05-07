@@ -1,7 +1,7 @@
 [
   {
     "name": "Celonis",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "Consulting",
     "city": "Munich",
     "number-of-employees": "3000",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Siemens AG",
-    "year-of-make": "1847",
+    "year-founded": "1847",
     "industry": "Conglomerate",
     "city": "Munich",
     "number-of-employees": "300000",
@@ -19,7 +19,7 @@
   },
   {
     "name": "BASF SE",
-    "year-of-make": "1865",
+    "year-founded": "1865",
     "industry": "Chemicals",
     "city": "Ludwigshafen",
     "number-of-employees": "100000",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Volkswagen AG",
-    "year-of-make": "1937",
+    "year-founded": "1937",
     "industry": "Automotive",
     "city": "Wolfsburg",
     "number-of-employees": "600000",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Deutsche Bank AG",
-    "year-of-make": "1870",
+    "year-founded": "1870",
     "industry": "Banking",
     "city": "Frankfurt",
     "number-of-employees": "80000",
@@ -46,7 +46,7 @@
   },
   {
     "name": "SAP SE",
-    "year-of-make": "1972",
+    "year-founded": "1972",
     "industry": "Software",
     "city": "Walldorf",
     "number-of-employees": "100000",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Allianz SE",
-    "year-of-make": "1890",
+    "year-founded": "1890",
     "industry": "Insurance",
     "city": "Munich",
     "number-of-employees": "150000",
@@ -65,7 +65,7 @@
   },
   {
     "name": "BMW AG",
-    "year-of-make": "1916",
+    "year-founded": "1916",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "100000",
@@ -74,7 +74,7 @@
   },
   {
     "name": "Daimler AG",
-    "year-of-make": "1926",
+    "year-founded": "1926",
     "industry": "Automotive",
     "city": "Stuttgart",
     "number-of-employees": "300000",
@@ -83,7 +83,7 @@
   },
   {
     "name": "Fresenius SE & Co. KGaA",
-    "year-of-make": "1912",
+    "year-founded": "1912",
     "industry": "Healthcare",
     "city": "Bad Homburg",
     "number-of-employees": "300000",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Bayer AG",
-    "year-of-make": "1863",
+    "year-founded": "1863",
     "industry": "Pharmaceuticals",
     "city": "Leverkusen",
     "number-of-employees": "100000",
@@ -101,7 +101,7 @@
   },
   {
     "name": "IONOS",
-    "year-of-make": "1988",
+    "year-founded": "1988",
     "industry": "Cloud Computing",
     "city": "Karlsruhe",
     "number-of-employees": "4000",
@@ -110,7 +110,7 @@
   },
   {
     "name": "Deutsche Telekom AG",
-    "year-of-make": "1995",
+    "year-founded": "1995",
     "industry": "Telecommunications",
     "city": "Bonn",
     "number-of-employees": "200000",
@@ -119,7 +119,7 @@
   },
   {
     "name": "Thyssenkrupp AG",
-    "year-of-make": "1999",
+    "year-founded": "1999",
     "industry": "Industrial",
     "city": "Essen",
     "number-of-employees": "150000",
@@ -128,7 +128,7 @@
   },
   {
     "name": "Henkel AG & Co. KGaA",
-    "year-of-make": "1876",
+    "year-founded": "1876",
     "industry": "Consumer Goods",
     "city": "Düsseldorf",
     "number-of-employees": "50000",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Continental AG",
-    "year-of-make": "1871",
+    "year-founded": "1871",
     "industry": "Automotive",
     "city": "Hanover",
     "number-of-employees": "200000",
@@ -146,7 +146,7 @@
   },
   {
     "name": "Deutsche Lufthansa AG",
-    "year-of-make": "1953",
+    "year-founded": "1953",
     "industry": "Aviation",
     "city": "Cologne",
     "number-of-employees": "100000",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Merck KGaA",
-    "year-of-make": "1668",
+    "year-founded": "1668",
     "industry": "Pharmaceuticals",
     "city": "Darmstadt",
     "number-of-employees": "60000",
@@ -164,7 +164,7 @@
   },
   {
     "name": "Deutsche Post DHL Group",
-    "year-of-make": "1995",
+    "year-founded": "1995",
     "industry": "Logistics",
     "city": "Bonn",
     "number-of-employees": "550000",
@@ -173,7 +173,7 @@
   },
   {
     "name": "Robert Bosch GmbH",
-    "year-of-make": "1886",
+    "year-founded": "1886",
     "industry": "Engineering",
     "city": "Gerlingen",
     "number-of-employees": "400000",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Evonik Industries AG",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "Chemicals",
     "city": "Essen",
     "number-of-employees": "32000",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Infineon Technologies AG",
-    "year-of-make": "1999",
+    "year-founded": "1999",
     "industry": "Semiconductor",
     "city": "Neubiberg",
     "number-of-employees": "46000",
@@ -200,7 +200,7 @@
   },
   {
     "name": "Beiersdorf AG",
-    "year-of-make": "1882",
+    "year-founded": "1882",
     "industry": "Consumer Goods",
     "city": "Hamburg",
     "number-of-employees": "20000",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Lanxess AG",
-    "year-of-make": "2004",
+    "year-founded": "2004",
     "industry": "Chemicals",
     "city": "Cologne",
     "number-of-employees": "14000",
@@ -218,7 +218,7 @@
   },
   {
     "name": "HeidelbergCement AG",
-    "year-of-make": "1873",
+    "year-founded": "1873",
     "industry": "Construction",
     "city": "Heidelberg",
     "number-of-employees": "50000",
@@ -227,7 +227,7 @@
   },
   {
     "name": "Osram Licht AG",
-    "year-of-make": "1906",
+    "year-founded": "1906",
     "industry": "Lighting",
     "city": "Munich",
     "number-of-employees": "20000",
@@ -236,7 +236,7 @@
   },
   {
     "name": "Wacker Neuson Linz GmbH",
-    "year-of-make": "1848",
+    "year-founded": "1848",
     "industry": "Construction Equipment",
     "city": "Munich",
     "number-of-employees": "5000",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Kärcher GmbH & Co. KG",
-    "year-of-make": "1935",
+    "year-founded": "1935",
     "industry": "Cleaning Equipment",
     "city": "Winnenden",
     "number-of-employees": "13000",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Metro AG",
-    "year-of-make": "1964",
+    "year-founded": "1964",
     "industry": "Wholesale",
     "city": "Düsseldorf",
     "number-of-employees": "100000",
@@ -263,7 +263,7 @@
   },
   {
     "name": "Bilfinger SE",
-    "year-of-make": "1880",
+    "year-founded": "1880",
     "industry": "Engineering",
     "city": "Mannheim",
     "number-of-employees": "30000",
@@ -272,7 +272,7 @@
   },
   {
     "name": "RWE AG",
-    "year-of-make": "1898",
+    "year-founded": "1898",
     "industry": "Energy",
     "city": "Essen",
     "number-of-employees": "20000",
@@ -281,7 +281,7 @@
   },
   {
     "name": "MTU Aero Engines AG",
-    "year-of-make": "1934",
+    "year-founded": "1934",
     "industry": "Aerospace",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -290,7 +290,7 @@
   },
   {
     "name": "Metro Markets",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Internet Marketplace Platforms",
     "city": "Düsseldorf",
     "number-of-employees": "700",
@@ -299,7 +299,7 @@
   },
   {
     "name": "Fresenius Medical Care AG & Co. KGaA",
-    "year-of-make": "1996",
+    "year-founded": "1996",
     "industry": "Healthcare",
     "city": "Bad Homburg",
     "number-of-employees": "120000",
@@ -308,7 +308,7 @@
   },
   {
     "name": "Deutsche Bahn AG",
-    "year-of-make": "1994",
+    "year-founded": "1994",
     "industry": "Transportation",
     "city": "Berlin",
     "number-of-employees": "300000",
@@ -317,7 +317,7 @@
   },
   {
     "name": "E.ON SE",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "Energy",
     "city": "Essen",
     "number-of-employees": "70000",
@@ -326,7 +326,7 @@
   },
   {
     "name": "FUCHS PETROLUB SE",
-    "year-of-make": "1931",
+    "year-founded": "1931",
     "industry": "Chemicals",
     "city": "Mannheim",
     "number-of-employees": "5000",
@@ -335,7 +335,7 @@
   },
   {
     "name": "Evonik Resource Efficiency GmbH",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "Specialty Chemicals",
     "city": "Essen",
     "number-of-employees": "10000",
@@ -344,7 +344,7 @@
   },
   {
     "name": "Deutsche Wohnen SE",
-    "year-of-make": "1998",
+    "year-founded": "1998",
     "industry": "Real Estate",
     "city": "Berlin",
     "number-of-employees": "14000",
@@ -353,7 +353,7 @@
   },
   {
     "name": "Symrise AG",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Flavors and Fragrances",
     "city": "Holzminden",
     "number-of-employees": "10000",
@@ -362,7 +362,7 @@
   },
   {
     "name": "Brenntag AG",
-    "year-of-make": "1874",
+    "year-founded": "1874",
     "industry": "Chemicals Distribution",
     "city": "Essen",
     "number-of-employees": "17000",
@@ -371,7 +371,7 @@
   },
   {
     "name": "ProSiebenSat.1 Media SE",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "Media",
     "city": "Unterföhring",
     "number-of-employees": "7000",
@@ -380,7 +380,7 @@
   },
   {
     "name": "PUMA SE",
-    "year-of-make": "1948",
+    "year-founded": "1948",
     "industry": "Apparel",
     "city": "Herzogenaurach",
     "number-of-employees": "13000",
@@ -389,7 +389,7 @@
   },
   {
     "name": "Celesio AG",
-    "year-of-make": "1835",
+    "year-founded": "1835",
     "industry": "Healthcare",
     "city": "Stuttgart",
     "number-of-employees": "40000",
@@ -398,7 +398,7 @@
   },
   {
     "name": "KION Group AG",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Material Handling",
     "city": "Frankfurt",
     "number-of-employees": "35000",
@@ -407,7 +407,7 @@
   },
   {
     "name": "Wacker Chemie AG",
-    "year-of-make": "1914",
+    "year-founded": "1914",
     "industry": "Chemicals",
     "city": "Munich",
     "number-of-employees": "14000",
@@ -416,7 +416,7 @@
   },
   {
     "name": "Osram Continental GmbH",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Automotive Lighting",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -425,7 +425,7 @@
   },
   {
     "name": "TÜV SÜD AG",
-    "year-of-make": "1866",
+    "year-founded": "1866",
     "industry": "Testing and Certification",
     "city": "Munich",
     "number-of-employees": "25000",
@@ -434,7 +434,7 @@
   },
   {
     "name": "Knorr-Bremse AG",
-    "year-of-make": "1905",
+    "year-founded": "1905",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "29000",
@@ -443,7 +443,7 @@
   },
   {
     "name": "Stada Arzneimittel AG",
-    "year-of-make": "1895",
+    "year-founded": "1895",
     "industry": "Pharmaceuticals",
     "city": "Bad Vilbel",
     "number-of-employees": "12000",
@@ -452,7 +452,7 @@
   },
   {
     "name": "Ceconomy AG",
-    "year-of-make": "2017",
+    "year-founded": "2017",
     "industry": "Consumer Electronics",
     "city": "Düsseldorf",
     "number-of-employees": "50000",
@@ -461,7 +461,7 @@
   },
   {
     "name": "Deutsche Pfandbriefbank AG",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Banking",
     "city": "Munich",
     "number-of-employees": "2000",
@@ -470,7 +470,7 @@
   },
   {
     "name": "Merck Life Science GmbH",
-    "year-of-make": "1668",
+    "year-founded": "1668",
     "industry": "Life Sciences",
     "city": "Darmstadt",
     "number-of-employees": "10000",
@@ -479,7 +479,7 @@
   },
   {
     "name": "ABB AG",
-    "year-of-make": "1883",
+    "year-founded": "1883",
     "industry": "Industrial Automation",
     "city": "Mannheim",
     "number-of-employees": "110000",
@@ -488,7 +488,7 @@
   },
   {
     "name": "ALTANA AG",
-    "year-of-make": "1977",
+    "year-founded": "1977",
     "industry": "Specialty Chemicals",
     "city": "Wesel",
     "number-of-employees": "6000",
@@ -497,7 +497,7 @@
   },
   {
     "name": "Wacker Silicones GmbH",
-    "year-of-make": "1903",
+    "year-founded": "1903",
     "industry": "Silicones",
     "city": "Munich",
     "number-of-employees": "14000",
@@ -506,7 +506,7 @@
   },
   {
     "name": "METROPOLE INVESTMENTS LTD.",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Real Estate",
     "city": "Berlin",
     "number-of-employees": "2000",
@@ -514,7 +514,7 @@
   },
   {
     "name": "Dürr AG",
-    "year-of-make": "1895",
+    "year-founded": "1895",
     "industry": "Machinery and Equipment",
     "city": "Stuttgart",
     "number-of-employees": "17000",
@@ -523,7 +523,7 @@
   },
   {
     "name": "Klüber Lubrication München SE & Co. KG",
-    "year-of-make": "1929",
+    "year-founded": "1929",
     "industry": "Lubricants",
     "city": "Munich",
     "number-of-employees": "2000",
@@ -532,7 +532,7 @@
   },
   {
     "name": "EnBW Energie Baden-Württemberg AG",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "Energy",
     "city": "Karlsruhe",
     "number-of-employees": "24000",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Deutsche Apotheker- und Ärztebank eG",
-    "year-of-make": "1902",
+    "year-founded": "1902",
     "industry": "Banking",
     "city": "Düsseldorf",
     "number-of-employees": "3000",
@@ -550,7 +550,7 @@
   },
   {
     "name": "KWS SAAT SE & Co. KGaA",
-    "year-of-make": "1856",
+    "year-founded": "1856",
     "industry": "Agriculture",
     "city": "Einbeck",
     "number-of-employees": "5000",
@@ -559,7 +559,7 @@
   },
   {
     "name": "Axel Springer SE",
-    "year-of-make": "1946",
+    "year-founded": "1946",
     "industry": "Media",
     "city": "Berlin",
     "number-of-employees": "16000",
@@ -568,7 +568,7 @@
   },
   {
     "name": "Munich Re Group",
-    "year-of-make": "1880",
+    "year-founded": "1880",
     "industry": "Insurance",
     "city": "Munich",
     "number-of-employees": "40000",
@@ -576,7 +576,7 @@
   },
   {
     "name": "Rheinmetall AG",
-    "year-of-make": "1889",
+    "year-founded": "1889",
     "industry": "Defense Automotive",
     "city": "Düsseldorf",
     "number-of-employees": "25000",
@@ -585,7 +585,7 @@
   },
   {
     "name": "Fielmann AG",
-    "year-of-make": "1972",
+    "year-founded": "1972",
     "industry": "Optics and Eyewear",
     "city": "Hamburg",
     "number-of-employees": "21000",
@@ -594,7 +594,7 @@
   },
   {
     "name": "Schaeffler AG",
-    "year-of-make": "1946",
+    "year-founded": "1946",
     "industry": "Automotive and Industrial",
     "city": "Herzogenaurach",
     "number-of-employees": "83000",
@@ -603,7 +603,7 @@
   },
   {
     "name": "TRUMPF GmbH + Co. KG",
-    "year-of-make": "1923",
+    "year-founded": "1923",
     "industry": "Machine Tools",
     "city": "Ditzingen",
     "number-of-employees": "14000",
@@ -612,7 +612,7 @@
   },
   {
     "name": "Commerzbank AG",
-    "year-of-make": "1870",
+    "year-founded": "1870",
     "industry": "Banking and Financial Services",
     "city": "Frankfurt",
     "number-of-employees": "39000",
@@ -621,7 +621,7 @@
   },
   {
     "name": "TÜV Rheinland AG",
-    "year-of-make": "1872",
+    "year-founded": "1872",
     "industry": "Testing Inspection and Certification",
     "city": "Cologne",
     "number-of-employees": "20000",
@@ -630,7 +630,7 @@
   },
   {
     "name": "Linde plc",
-    "year-of-make": "1879",
+    "year-founded": "1879",
     "industry": "Industrial Gases",
     "city": "Munich",
     "number-of-employees": "80000",
@@ -639,7 +639,7 @@
   },
   {
     "name": "Vodafone GmbH",
-    "year-of-make": "1988",
+    "year-founded": "1988",
     "industry": "Telecommunications",
     "city": "Düsseldorf",
     "number-of-employees": "10000",
@@ -648,7 +648,7 @@
   },
   {
     "name": "EON SE",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "Utilities",
     "city": "Essen",
     "number-of-employees": "75000",
@@ -657,7 +657,7 @@
   },
   {
     "name": "Wintershall Dea GmbH",
-    "year-of-make": "1894",
+    "year-founded": "1894",
     "industry": "Oil and Gas",
     "city": "Kassel",
     "number-of-employees": "2000",
@@ -666,7 +666,7 @@
   },
   {
     "name": "Uniper SE",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Utilities",
     "city": "Düsseldorf",
     "number-of-employees": "11000",
@@ -675,7 +675,7 @@
   },
   {
     "name": "Nordex SE",
-    "year-of-make": "1985",
+    "year-founded": "1985",
     "industry": "Renewable Energy",
     "city": "Hamburg",
     "number-of-employees": "8000",
@@ -684,7 +684,7 @@
   },
   {
     "name": "adidas AG",
-    "year-of-make": "1949",
+    "year-founded": "1949",
     "industry": "Apparel and Footwear",
     "city": "Herzogenaurach",
     "number-of-employees": "60000",
@@ -693,7 +693,7 @@
   },
   {
     "name": "MANN+HUMMEL GmbH",
-    "year-of-make": "1941",
+    "year-founded": "1941",
     "industry": "Automotive and Industrial Filters",
     "city": "Ludwigsburg",
     "number-of-employees": "20000",
@@ -702,7 +702,7 @@
   },
   {
     "name": "Fresenius Kabi Deutschland GmbH",
-    "year-of-make": "1912",
+    "year-founded": "1912",
     "industry": "Healthcare",
     "city": "Bad Homburg",
     "number-of-employees": "40000",
@@ -711,7 +711,7 @@
   },
   {
     "name": "Carl Zeiss AG",
-    "year-of-make": "1846",
+    "year-founded": "1846",
     "industry": "Optics and Optoelectronics",
     "city": "Oberkochen",
     "number-of-employees": "30000",
@@ -720,7 +720,7 @@
   },
   {
     "name": "Miele & Cie. KG",
-    "year-of-make": "1899",
+    "year-founded": "1899",
     "industry": "Home Appliances",
     "city": "Gütersloh",
     "number-of-employees": "20000",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Fraport AG",
-    "year-of-make": "1924",
+    "year-founded": "1924",
     "industry": "Airport Services",
     "city": "Frankfurt",
     "number-of-employees": "22000",
@@ -738,7 +738,7 @@
   },
   {
     "name": "Covestro Deutschland AG",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Chemicals",
     "city": "Leverkusen",
     "number-of-employees": "17000",
@@ -747,7 +747,7 @@
   },
   {
     "name": "Siemens Energy AG",
-    "year-of-make": "2020",
+    "year-founded": "2020",
     "industry": "Energy",
     "city": "Munich",
     "number-of-employees": "90000",
@@ -756,7 +756,7 @@
   },
   {
     "name": "Innogy SE",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Energy",
     "city": "Essen",
     "number-of-employees": "40000",
@@ -765,7 +765,7 @@
   },
   {
     "name": "EWE AG",
-    "year-of-make": "1936",
+    "year-founded": "1936",
     "industry": "Energy and Telecommunications",
     "city": "Oldenburg",
     "number-of-employees": "10000",
@@ -774,7 +774,7 @@
   },
   {
     "name": "Drägerwerk AG & Co. KGaA",
-    "year-of-make": "1889",
+    "year-founded": "1889",
     "industry": "Medical and Safety Technology",
     "city": "Lübeck",
     "number-of-employees": "14000",
@@ -782,7 +782,7 @@
   },
   {
     "name": "TUI AG",
-    "year-of-make": "1923",
+    "year-founded": "1923",
     "industry": "Tourism and Travel",
     "city": "Hannover",
     "number-of-employees": "70000",
@@ -791,7 +791,7 @@
   },
   {
     "name": "ZF Friedrichshafen AG",
-    "year-of-make": "1915",
+    "year-founded": "1915",
     "industry": "Automotive Technology",
     "city": "Friedrichshafen",
     "number-of-employees": "160000",
@@ -800,7 +800,7 @@
   },
   {
     "name": "Hilti Deutschland AG",
-    "year-of-make": "1952",
+    "year-founded": "1952",
     "industry": "Construction Technology",
     "city": "Kaufering",
     "number-of-employees": "30000",
@@ -809,7 +809,7 @@
   },
   {
     "name": "AUDI AG",
-    "year-of-make": "1909",
+    "year-founded": "1909",
     "industry": "Automotive",
     "city": "Ingolstadt",
     "number-of-employees": "90000",
@@ -818,7 +818,7 @@
   },
   {
     "name": "Osram GmbH",
-    "year-of-make": "1906",
+    "year-founded": "1906",
     "industry": "Lighting Solutions",
     "city": "Munich",
     "number-of-employees": "26000",
@@ -827,7 +827,7 @@
   },
   {
     "name": "B. Braun Melsungen AG",
-    "year-of-make": "1839",
+    "year-founded": "1839",
     "industry": "Medical Technology",
     "city": "Melsungen",
     "number-of-employees": "63000",
@@ -836,7 +836,7 @@
   },
   {
     "name": "Bertelsmann SE & Co. KGaA",
-    "year-of-make": "1835",
+    "year-founded": "1835",
     "industry": "Media",
     "city": "Gütersloh",
     "number-of-employees": "126000",
@@ -845,7 +845,7 @@
   },
   {
     "name": "KfW Bank",
-    "year-of-make": "1948",
+    "year-founded": "1948",
     "industry": "Development Bank",
     "city": "Frankfurt",
     "number-of-employees": "6000",
@@ -854,7 +854,7 @@
   },
   {
     "name": "DZ BANK AG",
-    "year-of-make": "1872",
+    "year-founded": "1872",
     "industry": "Cooperative Banking",
     "city": "Frankfurt",
     "number-of-employees": "29000",
@@ -863,7 +863,7 @@
   },
   {
     "name": "Deutsche Börse AG",
-    "year-of-make": "1992",
+    "year-founded": "1992",
     "industry": "Financial Services",
     "city": "Eschborn",
     "number-of-employees": "6000",
@@ -872,7 +872,7 @@
   },
   {
     "name": "Merck Group",
-    "year-of-make": "1668",
+    "year-founded": "1668",
     "industry": "Science and Technology",
     "city": "Darmstadt",
     "number-of-employees": "58000",
@@ -881,7 +881,7 @@
   },
   {
     "name": "Freudenberg Group",
-    "year-of-make": "1849",
+    "year-founded": "1849",
     "industry": "Diversified Industries",
     "city": "Weinheim",
     "number-of-employees": "52000",
@@ -890,7 +890,7 @@
   },
   {
     "name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
-    "year-of-make": "1890",
+    "year-founded": "1890",
     "industry": "Audit Tax and Advisory",
     "city": "Berlin",
     "number-of-employees": "12000",
@@ -898,7 +898,7 @@
   },
   {
     "name": "Boehringer Ingelheim GmbH",
-    "year-of-make": "1885",
+    "year-founded": "1885",
     "industry": "Pharmaceuticals",
     "city": "Ingelheim",
     "number-of-employees": "51000",
@@ -907,7 +907,7 @@
   },
   {
     "name": "T-Systems International GmbH",
-    "year-of-make": "2000",
+    "year-founded": "2000",
     "industry": "IT and Telecommunications",
     "city": "Frankfurt",
     "number-of-employees": "37000",
@@ -916,7 +916,7 @@
   },
   {
     "name": "Siemens Healthineers AG",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Medical Technology",
     "city": "Erlangen",
     "number-of-employees": "54000",
@@ -925,7 +925,7 @@
   },
   {
     "name": "Dr. Ing. h.c. F. Porsche AG",
-    "year-of-make": "1931",
+    "year-founded": "1931",
     "industry": "Automotive",
     "city": "Stuttgart",
     "number-of-employees": "35000",
@@ -934,7 +934,7 @@
   },
   {
     "name": "PwC Germany",
-    "year-of-make": "1900",
+    "year-founded": "1900",
     "industry": "Accounting and Consulting",
     "city": "Frankfurt",
     "number-of-employees": "11000",
@@ -943,7 +943,7 @@
   },
   {
     "name": "Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft",
-    "year-of-make": "1895",
+    "year-founded": "1895",
     "industry": "Accounting and Consulting",
     "city": "Stuttgart",
     "number-of-employees": "10000",
@@ -952,7 +952,7 @@
   },
   {
     "name": "Deloitte GmbH Wirtschaftsprüfungsgesellschaft",
-    "year-of-make": "1896",
+    "year-founded": "1896",
     "industry": "Accounting and Consulting",
     "city": "Munich",
     "number-of-employees": "12000",
@@ -960,7 +960,7 @@
   },
   {
     "name": "Volkswagen Commercial Vehicles",
-    "year-of-make": "1947",
+    "year-founded": "1947",
     "industry": "Automotive",
     "city": "Hanover",
     "number-of-employees": "17000",
@@ -969,7 +969,7 @@
   },
   {
     "name": "MAN Truck & Bus AG",
-    "year-of-make": "1758",
+    "year-founded": "1758",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "37000",
@@ -978,7 +978,7 @@
   },
   {
     "name": "SAP Concur",
-    "year-of-make": "1993",
+    "year-founded": "1993",
     "industry": "Software",
     "city": "Munich",
     "number-of-employees": "7000",
@@ -987,7 +987,7 @@
   },
   {
     "name": "Zalando SE",
-    "year-of-make": "2008",
+    "year-founded": "2008",
     "industry": "E-commerce",
     "city": "Berlin",
     "number-of-employees": "14000",
@@ -996,7 +996,7 @@
   },
   {
     "name": "Delivery Hero SE",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "Food Delivery",
     "city": "Berlin",
     "number-of-employees": "27000",
@@ -1005,7 +1005,7 @@
   },
   {
     "name": "HelloFresh SE",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "Meal Kit Delivery",
     "city": "Berlin",
     "number-of-employees": "11000",
@@ -1014,7 +1014,7 @@
   },
   {
     "name": "N26 GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Banking and Finance",
     "city": "Berlin",
     "number-of-employees": "4000",
@@ -1023,7 +1023,7 @@
   },
   {
     "name": "FlixBus GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Transportation",
     "city": "Munich",
     "number-of-employees": "3000",
@@ -1032,7 +1032,7 @@
   },
   {
     "name": "TeamViewer AG",
-    "year-of-make": "2005",
+    "year-founded": "2005",
     "industry": "Software",
     "city": "Göppingen",
     "number-of-employees": "1000",
@@ -1041,7 +1041,7 @@
   },
   {
     "name": "Bosch Rexroth AG",
-    "year-of-make": "1795",
+    "year-founded": "1795",
     "industry": "Engineering and Technology",
     "city": "Lohr am Main",
     "number-of-employees": "29000",
@@ -1050,7 +1050,7 @@
   },
   {
     "name": "Mercedes-Benz AG",
-    "year-of-make": "1926",
+    "year-founded": "1926",
     "industry": "Automotive",
     "city": "Stuttgart",
     "number-of-employees": "150000",
@@ -1059,7 +1059,7 @@
   },
   {
     "name": "Fresenius Helios",
-    "year-of-make": "1995",
+    "year-founded": "1995",
     "industry": "Healthcare and Hospitals",
     "city": "Berlin",
     "number-of-employees": "120000",
@@ -1068,7 +1068,7 @@
   },
   {
     "name": "Bosch Gruppe",
-    "year-of-make": "1886",
+    "year-founded": "1886",
     "industry": "Engineering and Technology",
     "city": "Gerlingen",
     "number-of-employees": "400000",
@@ -1077,7 +1077,7 @@
   },
   {
     "name": "Deutsche Bundesbank",
-    "year-of-make": "1957",
+    "year-founded": "1957",
     "industry": "Central Banking",
     "city": "Frankfurt",
     "number-of-employees": "9000",
@@ -1086,7 +1086,7 @@
   },
   {
     "name": "Schenker AG",
-    "year-of-make": "1872",
+    "year-founded": "1872",
     "industry": "Freight Transportation and Logistics",
     "city": "Essen",
     "number-of-employees": "76000",
@@ -1095,7 +1095,7 @@
   },
   {
     "name": "PricewaterhouseCoopers GmbH",
-    "year-of-make": "1849",
+    "year-founded": "1849",
     "industry": "Professional Services and Audit",
     "city": "Frankfurt",
     "number-of-employees": "10000",
@@ -1104,7 +1104,7 @@
   },
   {
     "name": "IBM Deutschland GmbH",
-    "year-of-make": "1910",
+    "year-founded": "1910",
     "industry": "Information Technology and Services",
     "city": "Ehningen",
     "number-of-employees": "20000",
@@ -1113,7 +1113,7 @@
   },
   {
     "name": "Amazon Deutschland Services GmbH",
-    "year-of-make": "1994",
+    "year-founded": "1994",
     "industry": "E-commerce and Retail",
     "city": "Munich",
     "number-of-employees": "20000",
@@ -1122,7 +1122,7 @@
   },
   {
     "name": "Kühne + Nagel International AG",
-    "year-of-make": "1890",
+    "year-founded": "1890",
     "industry": "Logistics and Supply Chain Management",
     "city": "Bremen",
     "number-of-employees": "82000",
@@ -1130,7 +1130,7 @@
   },
   {
     "name": "HUGO BOSS AG",
-    "year-of-make": "1924",
+    "year-founded": "1924",
     "industry": "Fashion and Apparel",
     "city": "Metzingen",
     "number-of-employees": "14000",
@@ -1139,7 +1139,7 @@
   },
   {
     "name": "Fujitsu Technology Solutions GmbH",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Information Technology and Services",
     "city": "Munich",
     "number-of-employees": "1400",
@@ -1148,7 +1148,7 @@
   },
   {
     "name": "Kuehne + Nagel (AG & Co.) KG",
-    "year-of-make": "1890",
+    "year-founded": "1890",
     "industry": "Logistics and Freight Forwarding",
     "city": "Hamburg",
     "number-of-employees": "78000",
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "Merz Pharma GmbH & Co. KGaA",
-    "year-of-make": "1908",
+    "year-founded": "1908",
     "industry": "Pharmaceuticals and Aesthetics",
     "city": "Frankfurt",
     "number-of-employees": "3000",
@@ -1166,7 +1166,7 @@
   },
   {
     "name": "Aldi Group",
-    "year-of-make": "1946",
+    "year-founded": "1946",
     "industry": "Retail and Grocery",
     "city": "Essen",
     "number-of-employees": "100000",
@@ -1175,7 +1175,7 @@
   },
   {
     "name": "Schwarz Gruppe",
-    "year-of-make": "1930",
+    "year-founded": "1930",
     "industry": "Retail and Grocery",
     "city": "Neckarsulm",
     "number-of-employees": "450000",
@@ -1184,7 +1184,7 @@
   },
   {
     "name": "DMK Group",
-    "year-of-make": "2001",
+    "year-founded": "2001",
     "industry": "Dairy and Food Processing",
     "city": "Zeven",
     "number-of-employees": "8000",
@@ -1193,7 +1193,7 @@
   },
   {
     "name": "KUKA Robotics GmbH",
-    "year-of-make": "1898",
+    "year-founded": "1898",
     "industry": "Automation and Robotics",
     "city": "Augsburg",
     "number-of-employees": "10000",
@@ -1202,7 +1202,7 @@
   },
   {
     "name": "FlixMobility GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Mobility and Transportation",
     "city": "Munich",
     "number-of-employees": "3000",
@@ -1211,7 +1211,7 @@
   },
   {
     "name": "Sartorius AG",
-    "year-of-make": "1870",
+    "year-founded": "1870",
     "industry": "Biotechnology and Life Sciences",
     "city": "Gottingen",
     "number-of-employees": "10000",
@@ -1220,7 +1220,7 @@
   },
   {
     "name": "Wayfair GmbH",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "E-commerce and Home Goods",
     "city": "Berlin",
     "number-of-employees": "5000",
@@ -1229,7 +1229,7 @@
   },
   {
     "name": "Home24 SE",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "E-commerce and Home Furniture",
     "city": "Berlin",
     "number-of-employees": "2000",
@@ -1238,7 +1238,7 @@
   },
   {
     "name": "Mister Spex GmbH",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "E-commerce and Eyewear",
     "city": "Berlin",
     "number-of-employees": "2000",
@@ -1247,7 +1247,7 @@
   },
   {
     "name": "Auto1 Group GmbH",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Automotive and Technology",
     "city": "Berlin",
     "number-of-employees": "4000",
@@ -1256,7 +1256,7 @@
   },
   {
     "name": "Foodspring GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Health and Nutrition",
     "city": "Berlin",
     "number-of-employees": "1000",
@@ -1265,7 +1265,7 @@
   },
   {
     "name": "Raisin GmbH",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Fintech and Banking",
     "city": "Berlin",
     "number-of-employees": "1000",
@@ -1274,7 +1274,7 @@
   },
   {
     "name": "smallpdf GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Software and Technology",
     "city": "Berlin",
     "number-of-employees": "100-249",
@@ -1283,7 +1283,7 @@
   },
   {
     "name": "Jimdo GmbH",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "Website Building and E-commerce",
     "city": "Hamburg",
     "number-of-employees": "250-499",
@@ -1292,7 +1292,7 @@
   },
   {
     "name": "Personio GmbH",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Human Resources and Software",
     "city": "Munich",
     "number-of-employees": "250-499",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Marley Spoon AG",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Meal Kits and Food Delivery",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "HomeToGo GmbH",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Travel and Vacation Rentals",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1319,7 +1319,7 @@
   },
   {
     "name": "Grover Group GmbH",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Consumer Electronics and Rentals",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1328,7 +1328,7 @@
   },
   {
     "name": "reBuy reCommerce GmbH",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "E-commerce and Used Goods",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1337,7 +1337,7 @@
   },
   {
     "name": "8fit GmbH",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Health and Fitness",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1346,7 +1346,7 @@
   },
   {
     "name": "Personify XP GmbH",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Artificial Intelligence and Personalization",
     "city": "Munich",
     "number-of-employees": "250-499",
@@ -1355,7 +1355,7 @@
   },
   {
     "name": "Sensorberg GmbH",
-    "year-of-make": "2013",
+    "year-founded": "2013",
     "industry": "Internet of Things (IoT) and Proptech",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1364,7 +1364,7 @@
   },
   {
     "name": "4tiitoo GmbH",
-    "year-of-make": "2011",
+    "year-founded": "2011",
     "industry": "Human-Computer Interaction and Software",
     "city": "Munich",
     "number-of-employees": "50-99",
@@ -1373,7 +1373,7 @@
   },
   {
     "name": "Emteria GmbH",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Embedded Systems and Software",
     "city": "Karlsruhe",
     "number-of-employees": "50-99",
@@ -1382,7 +1382,7 @@
   },
   {
     "name": "Vizibl GmbH",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Supply Chain and Procurement",
     "city": "Munich",
     "number-of-employees": "50-99",
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Joonko GmbH",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Human Resources and Diversity",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1400,7 +1400,7 @@
   },
   {
     "name": "Carla Cargo GmbH",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "E-mobility and Logistics",
     "city": "Berlin",
     "number-of-employees": "10-49",
@@ -1409,7 +1409,7 @@
   },
   {
     "name": "KINEXON GmbH",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Internet of Things (IoT) and Sports Analytics",
     "city": "Munich",
     "number-of-employees": "10-49",
@@ -1418,7 +1418,7 @@
   },
   {
     "name": "EyeEm Mobile GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Photography and Artificial Intelligence",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1427,7 +1427,7 @@
   },
   {
     "name": "Contentful GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Content Management and Headless CMS",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1436,7 +1436,7 @@
   },
   {
     "name": "Aiven GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Cloud Computing and Database Management",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1445,7 +1445,7 @@
   },
   {
     "name": "Signavio GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Business Process Management and Software",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1454,7 +1454,7 @@
   },
   {
     "name": "Coyo GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Internal Communications and Collaboration",
     "city": "Hamburg",
     "number-of-employees": "50-99",
@@ -1463,7 +1463,7 @@
   },
   {
     "name": "InVision GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Digital Product Design and Prototyping",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1472,7 +1472,7 @@
   },
   {
     "name": "Zenjob GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "On-demand Staffing and Gig Economy",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1481,7 +1481,7 @@
   },
   {
     "name": "Spryker Systems GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "E-commerce and Cloud Commerce",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1490,7 +1490,7 @@
   },
   {
     "name": "Mambu GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Banking and Financial Technology",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1499,7 +1499,7 @@
   },
   {
     "name": "TIER Mobility GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Micro-mobility and E-scooters",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1508,7 +1508,7 @@
   },
   {
     "name": "Quobyte GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Data Storage and Software-defined Storage",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1517,7 +1517,7 @@
   },
   {
     "name": "Zattoo Europa AG",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Streaming TV and Video",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1526,7 +1526,7 @@
   },
   {
     "name": "eGym GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Fitness and Health Technology",
     "city": "Munich",
     "number-of-employees": "250-499",
@@ -1535,7 +1535,7 @@
   },
   {
     "name": "Cirplus GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Circular Economy and Sustainable Materials",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1544,7 +1544,7 @@
   },
   {
     "name": "CoachHub GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Professional Coaching and EdTech",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1553,7 +1553,7 @@
   },
   {
     "name": "Beekeeper AG",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Internal Communication and Workplace Collaboration",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1562,7 +1562,7 @@
   },
   {
     "name": "unu GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Electric Mobility and Urban Mobility",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1571,7 +1571,7 @@
   },
   {
     "name": "wefox Germany GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "InsurTech and Digital Insurance",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1580,7 +1580,7 @@
   },
   {
     "name": "Styla GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Content Commerce and Digital Marketing",
     "city": "Berlin",
     "number-of-employees": "50-99",
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "Camunda Services GmbH",
-    "year-of-make": "?",
+    "year-founded": "?",
     "industry": "Business Process Automation and Workflow Management",
     "city": "Berlin",
     "number-of-employees": "250-499",
@@ -1598,7 +1598,7 @@
   },
   {
     "name": "Airbus Group",
-    "year-of-make": "1970",
+    "year-founded": "1970",
     "industry": "Aerospace and Defense",
     "city": "Hamburg",
     "number-of-employees": "10000",
@@ -1607,7 +1607,7 @@
   },
   {
     "name": "Montblanc International GmbH",
-    "year-of-make": "1906",
+    "year-founded": "1906",
     "industry": "Luxury Goods and Writing Instruments",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1616,7 +1616,7 @@
   },
   {
     "name": "OTTO GmbH & Co. KG",
-    "year-of-make": "1949",
+    "year-founded": "1949",
     "industry": "E-commerce and Retail",
     "city": "Hamburg",
     "number-of-employees": "5000-9999",
@@ -1625,7 +1625,7 @@
   },
   {
     "name": "Tchibo GmbH",
-    "year-of-make": "1949",
+    "year-founded": "1949",
     "industry": "Retail and Consumer Goods",
     "city": "Hamburg",
     "number-of-employees": "10000",
@@ -1634,7 +1634,7 @@
   },
   {
     "name": "Jungheinrich AG",
-    "year-of-make": "1953",
+    "year-founded": "1953",
     "industry": "Material Handling and Intralogistics",
     "city": "Hamburg",
     "number-of-employees": "10000",
@@ -1643,7 +1643,7 @@
   },
   {
     "name": "Aurubis AG",
-    "year-of-make": "1866",
+    "year-founded": "1866",
     "industry": "Metal Processing and Recycling",
     "city": "Hamburg",
     "number-of-employees": "5000-9999",
@@ -1652,7 +1652,7 @@
   },
   {
     "name": "Gruner + Jahr GmbH",
-    "year-of-make": "1948",
+    "year-founded": "1948",
     "industry": "Media and Publishing",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1661,7 +1661,7 @@
   },
   {
     "name": "Eppendorf AG",
-    "year-of-make": "1945",
+    "year-founded": "1945",
     "industry": "Biotechnology and Life Sciences",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1670,7 +1670,7 @@
   },
   {
     "name": "Körber AG",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Supply Chain Solutions and Technology",
     "city": "Hamburg",
     "number-of-employees": "5000-9999",
@@ -1679,7 +1679,7 @@
   },
   {
     "name": "DESY (Deutsches Elektronen-Synchrotron)",
-    "year-of-make": "1959",
+    "year-founded": "1959",
     "industry": "Research and Particle Physics",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1688,7 +1688,7 @@
   },
   {
     "name": "Hapag-Lloyd AG",
-    "year-of-make": "1970",
+    "year-founded": "1970",
     "industry": "Shipping and Logistics",
     "city": "Hamburg",
     "number-of-employees": "5000-9999",
@@ -1697,7 +1697,7 @@
   },
   {
     "name": "Hermes Germany GmbH",
-    "year-of-make": "1972",
+    "year-founded": "1972",
     "industry": "E-commerce and Logistics",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1706,7 +1706,7 @@
   },
   {
     "name": "XING SE",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Professional Networking and Career Services",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1715,7 +1715,7 @@
   },
   {
     "name": "Haspa Finanzholding",
-    "year-of-make": "1827",
+    "year-founded": "1827",
     "industry": "Banking and Financial Services",
     "city": "Hamburg",
     "number-of-employees": "1000-4999",
@@ -1724,7 +1724,7 @@
   },
   {
     "name": "Gerresheimer AG",
-    "year-of-make": "1864",
+    "year-founded": "1864",
     "industry": "Healthcare",
     "city": "Düsseldorf",
     "number-of-employees": "10000",
@@ -1733,7 +1733,7 @@
   },
   {
     "name": "C&A Mode GmbH & Co. KG",
-    "year-of-make": "1841",
+    "year-founded": "1841",
     "industry": "Retail",
     "city": "Düsseldorf",
     "number-of-employees": "35000",
@@ -1742,7 +1742,7 @@
   },
   {
     "name": "GEA Group AG",
-    "year-of-make": "1881",
+    "year-founded": "1881",
     "industry": "Industrial Equipment",
     "city": "Düsseldorf",
     "number-of-employees": "19000",
@@ -1751,7 +1751,7 @@
   },
   {
     "name": "Trivago GmbH",
-    "year-of-make": "2005",
+    "year-founded": "2005",
     "industry": "Online Travel",
     "city": "Düsseldorf",
     "number-of-employees": "1400",
@@ -1760,7 +1760,7 @@
   },
   {
     "name": "Klöckner & Co SE",
-    "year-of-make": "1906",
+    "year-founded": "1906",
     "industry": "Metal Processing",
     "city": "Düsseldorf",
     "number-of-employees": "8000",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "Qiagen GmbH",
-    "year-of-make": "1984",
+    "year-founded": "1984",
     "industry": "Biotechnology",
     "city": "Düsseldorf",
     "number-of-employees": "5600",
@@ -1778,7 +1778,7 @@
   },
   {
     "name": "SICK AG",
-    "year-of-make": "1946",
+    "year-founded": "1946",
     "industry": "Sensors",
     "city": "Düsseldorf",
     "number-of-employees": "10000",
@@ -1787,7 +1787,7 @@
   },
   {
     "name": "Talanx AG",
-    "year-of-make": "1903",
+    "year-founded": "1903",
     "industry": "Insurance",
     "city": "Düsseldorf",
     "number-of-employees": "23000",
@@ -1796,7 +1796,7 @@
   },
   {
     "name": "Amprion GmbH",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "Energy",
     "city": "Düsseldorf",
     "number-of-employees": "1700",
@@ -1805,7 +1805,7 @@
   },
   {
     "name": "AWISTA Gesellschaft für Abfallwirtschaft und Stadtreinigung mbH",
-    "year-of-make": "1989",
+    "year-founded": "1989",
     "industry": "Waste Management",
     "city": "Düsseldorf",
     "number-of-employees": "1800",
@@ -1814,7 +1814,7 @@
   },
   {
     "name": "GESCO AG",
-    "year-of-make": "1977",
+    "year-founded": "1977",
     "industry": "Industrial Services",
     "city": "Düsseldorf",
     "number-of-employees": "1100",
@@ -1823,7 +1823,7 @@
   },
   {
     "name": "RHEINPFALZ Verlag und Druckerei GmbH & Co. KG",
-    "year-of-make": "1946",
+    "year-founded": "1946",
     "industry": "Media",
     "city": "Düsseldorf",
     "number-of-employees": "1300",
@@ -1832,7 +1832,7 @@
   },
   {
     "name": "Käte Ahlmann Stiftung GmbH",
-    "year-of-make": "1972",
+    "year-founded": "1972",
     "industry": "Non-profit",
     "city": "Düsseldorf",
     "number-of-employees": "N/A",
@@ -1841,7 +1841,7 @@
   },
   {
     "name": "MAN SE",
-    "year-of-make": "1758",
+    "year-founded": "1758",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "35708",
@@ -1850,7 +1850,7 @@
   },
   {
     "name": "HypoVereinsbank - Unicredit Bank AG",
-    "year-of-make": "1998",
+    "year-founded": "1998",
     "industry": "Banking",
     "city": "Munich",
     "number-of-employees": "18500",
@@ -1859,7 +1859,7 @@
   },
   {
     "name": "ADAC SE",
-    "year-of-make": "1903",
+    "year-founded": "1903",
     "industry": "Automotive Services",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -1868,7 +1868,7 @@
   },
   {
     "name": "Giesecke+Devrient GmbH",
-    "year-of-make": "1852",
+    "year-founded": "1852",
     "industry": "Security Technology",
     "city": "Munich",
     "number-of-employees": "11000",
@@ -1877,7 +1877,7 @@
   },
   {
     "name": "Knorr-Bremse Systeme für Nutzfahrzeuge GmbH",
-    "year-of-make": "2002",
+    "year-founded": "2002",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "1800",
@@ -1886,7 +1886,7 @@
   },
   {
     "name": "Rohde & Schwarz GmbH & Co KG",
-    "year-of-make": "1933",
+    "year-founded": "1933",
     "industry": "Electronics",
     "city": "Munich",
     "number-of-employees": "12000",
@@ -1895,7 +1895,7 @@
   },
   {
     "name": "Munich Airport",
-    "year-of-make": "1948",
+    "year-founded": "1948",
     "industry": "Aviation",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -1904,7 +1904,7 @@
   },
   {
     "name": "Konica Minolta Business Solutions Europe GmbH",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Office Solutions",
     "city": "Munich",
     "number-of-employees": "2500",
@@ -1913,7 +1913,7 @@
   },
   {
     "name": "Altran Deutschland S.A.S. & Co. KG",
-    "year-of-make": "1982",
+    "year-founded": "1982",
     "industry": "Engineering",
     "city": "Munich",
     "number-of-employees": "50000",
@@ -1922,7 +1922,7 @@
   },
   {
     "name": "Metaio GmbH",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Augmented Reality",
     "city": "Munich",
     "number-of-employees": "N/A",
@@ -1931,7 +1931,7 @@
   },
   {
     "name": "KraussMaffei Group GmbH",
-    "year-of-make": "1838",
+    "year-founded": "1838",
     "industry": "Machinery",
     "city": "Munich",
     "number-of-employees": "5500",
@@ -1940,7 +1940,7 @@
   },
   {
     "name": "The Boston Consulting Group GmbH",
-    "year-of-make": "1963",
+    "year-founded": "1963",
     "industry": "Consulting",
     "city": "Munich",
     "number-of-employees": "18500",
@@ -1949,7 +1949,7 @@
   },
   {
     "name": "All for One Group AG",
-    "year-of-make": "1984",
+    "year-founded": "1984",
     "industry": "IT Services",
     "city": "Munich",
     "number-of-employees": "1700",
@@ -1958,7 +1958,7 @@
   },
   {
     "name": "BFFT GmbH",
-    "year-of-make": "1998",
+    "year-founded": "1998",
     "industry": "Automotive Engineering",
     "city": "Munich",
     "number-of-employees": "800",
@@ -1967,7 +1967,7 @@
   },
   {
     "name": "ERGO Group AG",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "Insurance",
     "city": "Munich",
     "number-of-employees": "3700",
@@ -1976,7 +1976,7 @@
   },
   {
     "name": "Hubert Burda Media",
-    "year-of-make": "1898",
+    "year-founded": "1898",
     "industry": "Media",
     "city": "Munich",
     "number-of-employees": "12500",
@@ -1985,7 +1985,7 @@
   },
   {
     "name": "Dallmeier electronic GmbH & Co. KG",
-    "year-of-make": "1984",
+    "year-founded": "1984",
     "industry": "Video Surveillance",
     "city": "Munich",
     "number-of-employees": "1000",
@@ -1994,7 +1994,7 @@
   },
   {
     "name": "Nemetschek Group",
-    "year-of-make": "1963",
+    "year-founded": "1963",
     "industry": "Software",
     "city": "Munich",
     "number-of-employees": "3000",
@@ -2003,7 +2003,7 @@
   },
   {
     "name": "Knauf Gips KG",
-    "year-of-make": "1932",
+    "year-founded": "1932",
     "industry": "Building Materials",
     "city": "Munich",
     "number-of-employees": "35000",
@@ -2012,7 +2012,7 @@
   },
   {
     "name": "ATOS IT Solutions and Services GmbH",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "IT Services",
     "city": "Munich",
     "number-of-employees": "100000+",
@@ -2021,7 +2021,7 @@
   },
   {
     "name": "MicroNova AG",
-    "year-of-make": "1987",
+    "year-founded": "1987",
     "industry": "Automotive Electronics",
     "city": "Munich",
     "number-of-employees": "700",
@@ -2030,7 +2030,7 @@
   },
   {
     "name": "Secunet Security Networks AG",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "IT Security",
     "city": "Munich",
     "number-of-employees": "800",
@@ -2039,7 +2039,7 @@
   },
   {
     "name": "ESG Elektroniksystem- und Logistik-GmbH",
-    "year-of-make": "1967",
+    "year-founded": "1967",
     "industry": "Defense and Aviation",
     "city": "Munich",
     "number-of-employees": "3500",
@@ -2048,7 +2048,7 @@
   },
   {
     "name": "Nemak Europe GmbH",
-    "year-of-make": "1979",
+    "year-founded": "1979",
     "industry": "Automotive",
     "city": "Munich",
     "number-of-employees": "27000",
@@ -2057,7 +2057,7 @@
   },
   {
     "name": "Sandoz GmbH",
-    "year-of-make": "1886",
+    "year-founded": "1886",
     "industry": "Pharmaceuticals",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -2066,7 +2066,7 @@
   },
   {
     "name": "REWE Group",
-    "year-of-make": "1927",
+    "year-founded": "1927",
     "industry": "Retail",
     "city": "Munich",
     "number-of-employees": "300000+",
@@ -2075,7 +2075,7 @@
   },
   {
     "name": "KPMG AG",
-    "year-of-make": "1890",
+    "year-founded": "1890",
     "industry": "Professional Services",
     "city": "Munich",
     "number-of-employees": "20000",
@@ -2084,7 +2084,7 @@
   },
   {
     "name": "Unify Communications GmbH & Co. KG",
-    "year-of-make": "1847",
+    "year-founded": "1847",
     "industry": "Communications",
     "city": "Munich",
     "number-of-employees": "N/A",
@@ -2093,7 +2093,7 @@
   },
   {
     "name": "Sixt SE",
-    "year-of-make": "1912",
+    "year-founded": "1912",
     "industry": "Car Rental",
     "city": "Munich",
     "number-of-employees": "7000",
@@ -2102,7 +2102,7 @@
   },
   {
     "name": "Hubert Haupt Immobilien Holding GmbH",
-    "year-of-make": "1957",
+    "year-founded": "1957",
     "industry": "Real Estate",
     "city": "Munich",
     "number-of-employees": "1000",
@@ -2111,7 +2111,7 @@
   },
   {
     "name": "Linde Material Handling GmbH",
-    "year-of-make": "1904",
+    "year-founded": "1904",
     "industry": "Material Handling",
     "city": "Munich",
     "number-of-employees": "12000",
@@ -2120,7 +2120,7 @@
   },
   {
     "name": "Santander Consumer Bank AG",
-    "year-of-make": "1957",
+    "year-founded": "1957",
     "industry": "Banking",
     "city": "Munich",
     "number-of-employees": "13000",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "DELO Industrial Adhesives",
-    "year-of-make": "1961",
+    "year-founded": "1961",
     "industry": "Adhesives",
     "city": "Munich",
     "number-of-employees": "700",
@@ -2138,7 +2138,7 @@
   },
   {
     "name": "MCM Klosterfrau Vertriebsgesellschaft mbH",
-    "year-of-make": "1826",
+    "year-founded": "1826",
     "industry": "Healthcare",
     "city": "Munich",
     "number-of-employees": "2000",
@@ -2147,7 +2147,7 @@
   },
   {
     "name": "Technische Universität München (TUM)",
-    "year-of-make": "1868",
+    "year-founded": "1868",
     "industry": "Education",
     "city": "Munich",
     "number-of-employees": "N/A",
@@ -2156,7 +2156,7 @@
   },
   {
     "name": "DocuWare GmbH",
-    "year-of-make": "1988",
+    "year-founded": "1988",
     "industry": "Document Management",
     "city": "Munich",
     "number-of-employees": "400",
@@ -2165,7 +2165,7 @@
   },
   {
     "name": "Limbach Gruppe SE",
-    "year-of-make": "1997",
+    "year-founded": "1997",
     "industry": "Engineering",
     "city": "Munich",
     "number-of-employees": "1500",
@@ -2174,7 +2174,7 @@
   },
   {
     "name": "ABALON Recruitment GmbH",
-    "year-of-make": "1986",
+    "year-founded": "1986",
     "industry": "Recruitment",
     "city": "Munich",
     "number-of-employees": "100",
@@ -2183,7 +2183,7 @@
   },
   {
     "name": "Flughafen München GmbH",
-    "year-of-make": "1948",
+    "year-founded": "1948",
     "industry": "Aviation",
     "city": "Munich",
     "number-of-employees": "10000",
@@ -2192,7 +2192,7 @@
   },
   {
     "name": "Candis GmbH",
-    "year-of-make": "2015",
+    "year-founded": "2015",
     "industry": "Software",
     "city": "Berlin",
     "number-of-employees": "100",
@@ -2201,7 +2201,7 @@
   },
   {
     "name": "OneFootball GmbH",
-    "year-of-make": "2008",
+    "year-founded": "2008",
     "industry": "Software",
     "city": "Berlin",
     "number-of-employees": "500",
@@ -2210,7 +2210,7 @@
   },
   {
     "name": "Check24",
-    "year-of-make": "1999",
+    "year-founded": "1999",
     "industry": "Technology, Information and Internet",
     "city": "Munich",
     "number-of-employees": "3000",
@@ -2219,7 +2219,7 @@
   },
   {
     "name": "Sportradar",
-    "year-of-make": "2001",
+    "year-founded": "2001",
     "industry": "Information Services",
     "city": "St. Gallen",
     "number-of-employees": "3000",
@@ -2228,7 +2228,7 @@
   },
   {
     "name": "Blinkist",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "E-Learning Providers",
     "city": "Berlin",
     "number-of-employees": "500",
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "MBition",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Software Development",
     "city": "Berlin",
     "number-of-employees": "1000",
@@ -2246,7 +2246,7 @@
   },
   {
     "name": "Trade Republic",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "Financial Services",
     "city": "Berlin",
     "number-of-employees": "1000",
@@ -2255,7 +2255,7 @@
   },
   {
     "name": "Holidu",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "IT Services and IT Consulting",
     "city": "Munich",
     "number-of-employees": "700",
@@ -2264,7 +2264,7 @@
   },
   {
     "name": "Taxdoo",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "IT Services and IT Consulting",
     "city": "Hamburg",
     "number-of-employees": "300",
@@ -2273,7 +2273,7 @@
   },
   {
     "name": "Vimcar",
-    "year-of-make": "2014",
+    "year-founded": "2014",
     "industry": "IT Services and IT Consulting",
     "city": "Berlin",
     "number-of-employees": "200",
@@ -2282,7 +2282,7 @@
   },
   {
     "name": "DataGuard",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "IT Services and IT Consulting",
     "city": "Munich",
     "number-of-employees": "300",
@@ -2291,7 +2291,7 @@
   },
   {
     "name": "Alasco",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Software Development",
     "city": "Munich",
     "number-of-employees": "300",
@@ -2300,7 +2300,7 @@
   },
   {
     "name": "SENSORY-MINDS GMBH",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "IT Services and IT Consulting",
     "city": "Darmstadt",
     "number-of-employees": "100",
@@ -2309,7 +2309,7 @@
   },
   {
     "name": "Energy Robotics",
-    "year-of-make": "2019",
+    "year-founded": "2019",
     "industry": "Automation Machinery Manufacturing",
     "city": "Darmstadt",
     "number-of-employees": "100",
@@ -2318,7 +2318,7 @@
   },
   {
     "name": "AppsFactory",
-    "year-of-make": "2009",
+    "year-founded": "2009",
     "industry": "IT Services and IT Consulting",
     "city": "Leipzig",
     "number-of-employees": "300",
@@ -2327,7 +2327,7 @@
   },
   {
     "name": "OWWN",
-    "year-of-make": "2018",
+    "year-founded": "2018",
     "industry": "Social Networking Platforms",
     "city": "Berlin",
     "number-of-employees": "50",
@@ -2336,7 +2336,7 @@
   },
   {
     "name": "Solvians",
-    "year-of-make": "2006",
+    "year-founded": "2006",
     "industry": "Information Technology & Services",
     "city": "Frankfurt",
     "number-of-employees": "79",
@@ -2345,7 +2345,7 @@
   },
   {
     "name": "Babbel",
-    "year-of-make": "2007",
+    "year-founded": "2007",
     "industry": "E-Learning Providers",
     "city": "Berlin",
     "number-of-employees": "1300",
@@ -2354,7 +2354,7 @@
   },
   {
     "name": "Adjust",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Advertising Services",
     "city": "Berlin",
     "number-of-employees": "1000",
@@ -2363,7 +2363,7 @@
   },
   {
     "name": "Gameforge",
-    "year-of-make": "2003",
+    "year-founded": "2003",
     "industry": "Computer Games",
     "city": "Karlsruhe",
     "number-of-employees": "400",
@@ -2372,7 +2372,7 @@
   },
   {
     "name": "The unbelievable Machine Company GmbH",
-    "year-of-make": "2008",
+    "year-founded": "2008",
     "industry": "IT Services and IT Consulting",
     "city": "Berlin",
     "number-of-employees": "50",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Scout24 Group",
-    "year-of-make": "2012",
+    "year-founded": "2012",
     "industry": "Technology, Information and Internet",
     "city": "Munich",
     "number-of-employees": "1000",
@@ -2390,7 +2390,7 @@
   },
   {
     "name": "Mercedes-Benz Leasing Deutschland",
-    "year-of-make": "2020",
+    "year-founded": "2020",
     "industry": "Financial Services",
     "city": "Stuttgart",
     "number-of-employees": "300",
@@ -2399,7 +2399,7 @@
   },
   {
     "name": "JITpay™ Group",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Financial Services",
     "city": "Braunschweig",
     "number-of-employees": "80",
@@ -2408,7 +2408,7 @@
   },
   {
     "name": "Pixida",
-    "year-of-make": "2008",
+    "year-founded": "2008",
     "industry": "Information Technology & Services",
     "city": "Munich",
     "number-of-employees": "200",
@@ -2417,7 +2417,7 @@
   },
   {
     "name": "Enmacc",
-    "year-of-make": "2016",
+    "year-founded": "2016",
     "industry": "Software Development",
     "city": "Munich",
     "number-of-employees": "200",
