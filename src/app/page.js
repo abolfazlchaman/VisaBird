@@ -1,10 +1,10 @@
-import Main from '@/components/Main/Main';
+import Main from "@/components/Main/Main";
 
-import { prefix } from '@/utils/prefix';
+import { prefix } from "@/utils/prefix";
 
-import passportIMG from '../images/icons8-passport-100.png';
-import passportWithVisaIMG from '../images/icons8-passport-with-visa-100.png';
-import visaStampIMG from '../images/icons8-visa-stamp-100.png';
+import passportIMG from "../images/icons8-passport-100.png";
+import passportWithVisaIMG from "../images/icons8-passport-with-visa-100.png";
+import visaStampIMG from "../images/icons8-visa-stamp-100.png";
 
 export default function Home() {
   // englandData.map(({ name }) => console.log(name));
@@ -14,7 +14,7 @@ export default function Home() {
 
       <footer className="bottom-0 container flex flex-col z-10 text-md font-medium w-full items-center justify-center font-mono">
         <div className="flex-item px-4 text-center mb-3 flex-row w-full items-center justify-center">
-          Made with 🤍 by&nbsp;
+          Made by&nbsp;
           <a href="https://github.com/abolfazlchaman/visasponsors">
             <strong className="text-lg font-bold text-black">Abolfazl Chaman</strong>
           </a>
