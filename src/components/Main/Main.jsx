@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { ALL_COUNTRIES, countryDataAliases } from '@/data';
 
 import Card from '../Card/Card';
-import logo from './../../../public/favicon.ico';
+import logo from '../../favicon.ico';
 import passportWithVisaIMG from '@/images/icons8-passport-with-visa-100.png';
 import visaStampIMG from '@/images/icons8-visa-stamp-100.png';
 
@@ -156,7 +156,7 @@ export default function Main() {
         <div className='flex flex-row flex-wrap pt-8 pb-8 h-fit w-100 align-around justify-around'>
           {selectedCountryData &&
             selectedCountryData.length > 0 &&
-            selectedCountryData.map((company) => {
+            selectedCountryData.map((company, i) => {
               const countOfEMPS = company['number-of-employees'];
               const EMPCountHasDash = countOfEMPS.includes('-');
               const EMPCounts = EMPCountHasDash && countOfEMPS.split('-');
@@ -185,7 +185,12 @@ export default function Main() {
                 (isCountryEmptyString || isSameCountry) &&
                 passEmployeeFilter;
 
-              return shouldRender ? <Card props={company} /> : null;
+              return shouldRender ? (
+                <Card
+                  key={company + i}
+                  props={company}
+                />
+              ) : null;
             })}
         </div>
       </div>
