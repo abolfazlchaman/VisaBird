@@ -1,5 +1,4 @@
 import LinkedInIcon from '../Icons/LinkedInIcon';
-import { prefix } from '@/utils/prefix';
 
 export default function Card({ props }) {
   const { name, industry, city, country, linkedin } = props;
