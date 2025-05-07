@@ -1,6 +1,6 @@
 import './globals.css';
 import { Inter } from 'next/font/google';
-import favicon from '/public/favicon.ico';
+import favicon from '../favicon.ico';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -12,26 +12,26 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang='en'>
       <link
-        rel="shortcut icon"
+        rel='shortcut icon'
         href={favicon.src}
       />
       <link
-        rel="apple-touch-icon"
-        sizes="180x180"
+        rel='apple-touch-icon'
+        sizes='180x180'
         href={favicon.src}
       />
       <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
+        rel='icon'
+        type='image/png'
+        sizes='32x32'
         href={favicon.src}
       />
       <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
+        rel='icon'
+        type='image/png'
+        sizes='16x16'
         href={favicon.src}
       />
       <body className={inter.className}>{children}</body>
