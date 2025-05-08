@@ -2,7 +2,7 @@ export function AboutSection() {
   return (
     <section
       id='about'
-      className='py-16 bg-white dark:bg-gray-800'>
+      className='py-20 bg-white dark:bg-gray-800'>
       <div className='container mx-auto px-4'>
         <div className='max-w-4xl mx-auto'>
           <div className='text-center mb-12'>
