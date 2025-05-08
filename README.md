@@ -1,3 +1,4 @@
+> ⚠️ **Legacy Branch**: This branch is no longer maintained and contains old code. For the latest version, see the [main branch](https://github.com/abolfazlchaman/VisaBird/tree/main).
 # 🌍 VisaBird – Visa Sponsorship Companies Finder
 
 ## [Click to view Live website](https://www.visabird.ir) - https://www.visabird.ir
