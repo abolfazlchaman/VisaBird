@@ -1,5 +1,8 @@
 # VisaBird
 
+
+![VisaBird Screenshot](/public/images/visabirdscreenshot.webp)
+
 Find companies that sponsor work visas in the UK, Canada, Germany, and more.
 
 ## About
@@ -13,6 +16,7 @@ VisaBird is an open-source platform that helps international professionals find 
 - Real-time updates on new opportunities
 - Community-powered data
 - 100% Free - No Hidden Fees
+![VisaBird Logo](/public/android-chrome-192x192.png)
 
 ## Tech Stack
 
@@ -21,26 +25,37 @@ VisaBird is an open-source platform that helps international professionals find 
 - Tailwind CSS
 - Shadcn UI
 - Vercel AI SDK
+- Next.js 15 (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Radix UI
+- Vercel AI SDK
+- Node.js 18.x
+- pnpm 10.10.0
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/visabird.git
+git clone https://github.com/abolfazlchaman/VisaBird.git
 ```
 
-2. Install dependencies:
+2. Switch to Node.js 18.x:
 ```bash
-cd visabird
-npm install
+nvm install && nvm use
 ```
 
-3. Run the development server:
+3. Install dependencies:
 ```bash
-npm run dev
+pnpm install
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Start the development server:
+```bash
+pnpm dev
+```
 
 ## Contributing
 
