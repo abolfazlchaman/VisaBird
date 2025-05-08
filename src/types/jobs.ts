@@ -13,6 +13,8 @@ export interface JobFilters {
   industry?: string;
   city?: string;
   search?: string;
+  minEmployees?: string;
+  maxEmployees?: string;
 }
 
 export interface JobSearchParams extends JobFilters {

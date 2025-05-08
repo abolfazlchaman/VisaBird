@@ -5,6 +5,7 @@ import { DesktopNav } from './desktop-nav';
 import { MobileNav } from './mobile-nav';
 import { DoveLogo } from './dove-logo';
 import { ThemeSwitch } from './theme-switch';
+import Link from 'next/link';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -31,12 +32,12 @@ export function Header() {
 
             {/* Right side - Find Jobs button, theme switch and mobile menu */}
             <div className="flex items-center space-x-4">
-              <a
-                href="#search"
+              <Link
+                href="/jobs"
                 className="hidden 2xl:inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-lg font-medium transition"
               >
                 Find Jobs Now
-              </a>
+              </Link>
               <div className="hidden 2xl:block">
                 <ThemeSwitch />
               </div>

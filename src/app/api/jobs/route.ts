@@ -9,6 +9,8 @@ export async function GET(request: NextRequest) {
     industry: searchParams.get('industry') || undefined,
     city: searchParams.get('city') || undefined,
     search: searchParams.get('search') || undefined,
+    minEmployees: searchParams.get('minEmployees') || undefined,
+    maxEmployees: searchParams.get('maxEmployees') || undefined,
   };
 
   let companies = ALL_COUNTRIES();
@@ -35,6 +37,15 @@ export async function GET(request: NextRequest) {
       company.industry.toLowerCase().includes(searchLower) ||
       company.city.toLowerCase().includes(searchLower)
     );
+  }
+
+  if (filters.minEmployees || filters.maxEmployees) {
+    companies = companies.filter((company) => {
+      const employeeCount = parseInt(company.numberOfEmployees.replace(/,/g, ''));
+      const min = filters.minEmployees ? parseInt(filters.minEmployees) : 0;
+      const max = filters.maxEmployees ? parseInt(filters.maxEmployees) : Infinity;
+      return employeeCount >= min && employeeCount <= max;
+    });
   }
 
   return NextResponse.json(companies);
