@@ -3,7 +3,7 @@ import { Skeleton } from '@/components/ui/skeleton/index';
 
 export function JobCardSkeleton() {
   return (
-    <Card className="hover:shadow-lg transition-shadow">
+    <Card className="hover:shadow-lg transition-shadow bg-gray-200 dark:bg-gray-500">
       <CardHeader>
         <div className="flex items-center justify-between">
           <Skeleton className="h-6 w-48" />
