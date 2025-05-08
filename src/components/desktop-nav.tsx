@@ -1,41 +1,56 @@
+'use client';
+
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
+
 export function DesktopNav() {
+  const pathname = usePathname();
+  const isJobsPage = pathname === '/jobs';
+
   return (
-    <nav className='hidden 2xl:flex items-center space-x-8'>
-      <a
-        href='#search'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+    <nav className="hidden 2xl:flex items-center space-x-8">
+      <Link
+        href={isJobsPage ? '/#search' : '#search'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         Search
-      </a>
-      <a
-        href='#features'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#features' : '#features'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         Features
-      </a>
-      <a
-        href='#how-it-works'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#how-it-works' : '#how-it-works'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         How It Works
-      </a>
-      <a
-        href='#about'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#about' : '#about'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         About
-      </a>
-      <a
-        href='#employers'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#employers' : '#employers'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         For Employers
-      </a>
-      <a
-        href='#testimonials'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#testimonials' : '#testimonials'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         Success Stories
-      </a>
-      <a
-        href='#contact'
-        className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
+      </Link>
+      <Link
+        href={isJobsPage ? '/#contact' : '#contact'}
+        className="text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400"
+      >
         Contact
-      </a>
+      </Link>
     </nav>
   );
 }
