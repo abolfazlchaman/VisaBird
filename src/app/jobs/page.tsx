@@ -10,16 +10,13 @@ interface JobsPageProps {
 }
 
 export default async function JobsPage({ searchParams }: JobsPageProps) {
-  // Await searchParams before using them
-  const params = await searchParams;
-
   const filters: JobFilters = {
-    country: params.country as string,
-    industry: params.industry as string,
-    city: params.city as string,
-    search: params.search as string,
-    minEmployees: params.minEmployees as string,
-    maxEmployees: params.maxEmployees as string,
+    country: searchParams.country as string,
+    industry: searchParams.industry as string,
+    city: searchParams.city as string,
+    search: searchParams.search as string,
+    minEmployees: searchParams.minEmployees as string,
+    maxEmployees: searchParams.maxEmployees as string,
   };
 
   return (
