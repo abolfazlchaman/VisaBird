@@ -41,7 +41,8 @@ export default function Home() {
           </div>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a
-              href="#search"
+              // href="#search"
+              href="/jobs"
               className="bg-white text-indigo-600 hover:bg-indigo-50 px-8 py-3 rounded-lg font-medium text-lg transition"
             >
               Start Your Search

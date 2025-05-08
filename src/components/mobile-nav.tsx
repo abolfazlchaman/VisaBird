@@ -117,7 +117,8 @@ export function MobileNav({
               <ThemeSwitch />
             </div>
             <Link
-              href={isJobsPage ? '/#search' : '#search'}
+              // href={isJobsPage ? '/#jobs' : '#jobs'}
+              href="/jobs"
               className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-6 rounded-lg text-center transition-colors"
               onClick={() => setIsOpen(false)}
             >
