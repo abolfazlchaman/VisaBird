@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VisaBird
+
+Find companies that sponsor work visas in the UK, Canada, Germany, and more.
+
+## About
+
+VisaBird is an open-source platform that helps international professionals find visa sponsorship opportunities worldwide. Our mission is to make global career opportunities accessible to everyone.
+
+## Features
+
+- Comprehensive search for visa-sponsoring companies
+- Filter by country, industry, and visa type
+- Real-time updates on new opportunities
+- Community-powered data
+- 100% Free - No Hidden Fees
+
+## Tech Stack
+
+- Next.js 14 (App Router)
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Vercel AI SDK
 
 ## Getting Started
 
-First, run the development server:
-
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/visabird.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+cd visabird
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Deploy on Vercel
+## Security
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you discover any security-related issues, please email contact@abolfazlchaman.com instead of using the issue tracker.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Author
+
+- Abolfazl Chaman
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped make VisaBird better
+- Special thanks to the open-source community for their invaluable tools and resources
