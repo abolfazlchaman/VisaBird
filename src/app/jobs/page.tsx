@@ -6,17 +6,18 @@ import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
 
 interface JobsPageProps {
-  searchParams: { [key: string]: string | string[] | undefined };
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }
 
 export default async function JobsPage({ searchParams }: JobsPageProps) {
+  const resolvedParams = await searchParams;
   const filters: JobFilters = {
-    country: searchParams.country as string,
-    industry: searchParams.industry as string,
-    city: searchParams.city as string,
-    search: searchParams.search as string,
-    minEmployees: searchParams.minEmployees as string,
-    maxEmployees: searchParams.maxEmployees as string,
+    country: resolvedParams.country as string,
+    industry: resolvedParams.industry as string,
+    city: resolvedParams.city as string,
+    search: resolvedParams.search as string,
+    minEmployees: resolvedParams.minEmployees as string,
+    maxEmployees: resolvedParams.maxEmployees as string,
   };
 
   return (
