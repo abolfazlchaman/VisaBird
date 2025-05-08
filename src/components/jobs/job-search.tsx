@@ -122,7 +122,7 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
   };
 
   return (
-    <div className="space-y-6 bg-white dark:bg-gray-800 p-6 rounded-lg border border-gray-200 dark:border-gray-700">
+    <div className="space-y-6 bg-slate-50 dark:bg-gray-800 p-6 rounded-lg border border-slate-200 dark:border-gray-700">
       <div className="space-y-2">
         <Label htmlFor="search" className="text-gray-800 dark:text-white">
           Search Companies
@@ -134,7 +134,7 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
             placeholder="Search by company name..."
             value={filters.search || ''}
             onChange={e => setFilters(prev => ({ ...prev, search: e.target.value }))}
-            className="pl-8 bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600 text-gray-900 dark:text-white placeholder:text-gray-500 dark:placeholder:text-gray-400"
+            className="pl-8 bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white placeholder:text-gray-500 dark:placeholder:text-gray-400"
           />
           {filters.search && (
             <button
@@ -160,11 +160,11 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
         >
           <SelectTrigger
             id="country"
-            className="bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600 text-gray-900 dark:text-white"
+            className="bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white"
           >
             <SelectValue placeholder="Select country" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700">
+          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
             {COUNTRIES.map(country => (
               <SelectItem
                 key={country}
@@ -188,11 +188,11 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
         >
           <SelectTrigger
             id="industry"
-            className="bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600 text-gray-900 dark:text-white"
+            className="bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white"
           >
             <SelectValue placeholder="Select industry" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700">
+          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
             {INDUSTRIES.map(industry => (
               <SelectItem
                 key={industry}
@@ -215,7 +215,7 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
           placeholder="Enter city..."
           value={filters.city || ''}
           onChange={e => handleFilterChange('city', e.target.value)}
-          className="bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600 text-gray-900 dark:text-white placeholder:text-gray-500 dark:placeholder:text-gray-400"
+          className="bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white placeholder:text-gray-500 dark:placeholder:text-gray-400"
         />
       </div>
 
@@ -231,10 +231,10 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
           }
           onValueChange={handleEmployeeRangeChange}
         >
-          <SelectTrigger className="bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600 text-gray-900 dark:text-white">
+          <SelectTrigger className="bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white">
             <SelectValue placeholder="Select employee range" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700">
+          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
             {EMPLOYEE_RANGES.map(range => (
               <SelectItem
                 key={range.label}
@@ -251,7 +251,7 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
       {hasActiveFilters && (
         <Button
           variant="outline"
-          className="w-full border-gray-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          className="w-full border-slate-200 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-slate-100 dark:hover:bg-gray-700"
           onClick={clearFilters}
         >
           Clear All Filters

@@ -64,7 +64,7 @@ export function JobResults({ filters }: JobResultsProps) {
   return (
     <div className="grid gap-4 md:grid-cols-2">
       {companies.map(company => (
-        <Card key={company.name} className="hover:shadow-lg transition-shadow">
+        <Card key={company.name} className="hover:shadow-lg transition-shadow dark:bg-gray-800">
           <CardHeader>
             <CardTitle className="flex items-center justify-between">
               <span className="truncate">{company.name}</span>

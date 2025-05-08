@@ -17,7 +17,7 @@ export function JobCard({ company }: JobCardProps) {
   };
 
   return (
-    <Card className="hover:shadow-lg transition-shadow bg-white dark:bg-gray-800 border-gray-200 dark:border-gray-700">
+    <Card className="hover:shadow-lg transition-shadow bg-slate-50 dark:bg-gray-800 border-slate-200 dark:border-gray-700">
       <CardHeader className="flex flex-row items-start justify-between space-y-0 pb-2">
         <div className="flex items-center space-x-2">
           {company.logo && (

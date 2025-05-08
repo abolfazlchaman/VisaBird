@@ -19,7 +19,7 @@ export default async function JobsPage({ searchParams }: JobsPageProps) {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8 bg-white dark:bg-gray-900">
+    <div className="container mx-auto px-4 py-8 bg-slate-50 dark:bg-gray-900">
       <div className="flex justify-between items-center mb-8">
         <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Visa Sponsorship Jobs</h1>
         <ThemeSwitch />
