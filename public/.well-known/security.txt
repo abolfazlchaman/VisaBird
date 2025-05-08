@@ -1,0 +1,5 @@
+Contact: mailto:contact@abolfazlchaman.com
+Expires: 2030-12-31T23:59:59.000Z
+Preferred-Languages: en
+# This is an open source project. While we don't offer bug bounties,
+# we appreciate security reports and will acknowledge contributors. 
