@@ -1,8 +1,6 @@
-import { ThemeSwitch } from './theme-switch';
-
 export function DesktopNav() {
   return (
-    <nav className='hidden md:flex items-center space-x-8'>
+    <nav className='hidden 2xl:flex items-center space-x-8'>
       <a
         href='#search'
         className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
@@ -38,9 +36,6 @@ export function DesktopNav() {
         className='text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'>
         Contact
       </a>
-      <div className='flex items-center space-x-4'>
-        <ThemeSwitch />
-      </div>
     </nav>
   );
 }

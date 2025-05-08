@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { DesktopNav } from './desktop-nav';
 import { MobileNav } from './mobile-nav';
 import { DoveLogo } from './dove-logo';
+import { ThemeSwitch } from './theme-switch';
 
 export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -28,17 +29,20 @@ export function Header() {
             {/* Desktop Navigation */}
             <DesktopNav />
 
-            {/* Right side - Find Jobs button and mobile menu */}
+            {/* Right side - Find Jobs button, theme switch and mobile menu */}
             <div className='flex items-center space-x-4'>
               <a
                 href='#search'
-                className='hidden md:inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-lg font-medium transition'>
+                className='hidden 2xl:inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-lg font-medium transition'>
                 Find Jobs Now
               </a>
+              <div className='hidden 2xl:block'>
+                <ThemeSwitch />
+              </div>
             </div>
             <button
               onClick={() => setIsMobileMenuOpen(true)}
-              className='md:hidden p-2 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'>
+              className='2xl:hidden p-2 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700'>
               <i className='fas fa-bars text-xl'></i>
             </button>
           </div>
