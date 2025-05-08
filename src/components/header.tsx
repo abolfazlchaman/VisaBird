@@ -22,10 +22,13 @@ export function Header() {
         <div className="container min-w-full px-4">
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
-            <div className="flex items-center space-x-2">
+            <Link
+              href="/"
+              className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
+            >
               <DoveLogo className="w-8 h-8 text-indigo-600 dark:text-indigo-400" />
               <span className="text-xl font-bold text-gray-800 dark:text-white">VisaBird</span>
-            </div>
+            </Link>
 
             {/* Desktop Navigation */}
             <DesktopNav />
