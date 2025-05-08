@@ -62,9 +62,12 @@ export function JobResults({ filters }: JobResultsProps) {
   }
 
   return (
-    <div className="grid gap-4 md:grid-cols-2">
+    <div className="grid gap-4 grid-cols-1 lg:grid-cols-2 xl:grid-cols-3">
       {companies.map(company => (
-        <Card key={company.name} className="hover:shadow-lg transition-shadow dark:bg-gray-800">
+        <Card
+          key={company.name}
+          className="hover:shadow-lg transition-shadow dark:bg-gray-800 overflow-auto"
+        >
           <CardHeader>
             <CardTitle className="flex items-center justify-between">
               <span className="truncate">{company.name}</span>
@@ -82,11 +85,11 @@ export function JobResults({ filters }: JobResultsProps) {
             <dl className="grid grid-cols-2 gap-2 text-sm">
               <div>
                 <dt className="font-medium text-muted-foreground">Industry</dt>
-                <dd>{company.industry}</dd>
+                <dd className="truncate">{company.industry}</dd>
               </div>
               <div>
                 <dt className="font-medium text-muted-foreground">Location</dt>
-                <dd>
+                <dd className="truncate">
                   {company.city}, {company.country}
                 </dd>
               </div>
