@@ -10,13 +10,16 @@ interface JobsPageProps {
 }
 
 export default async function JobsPage({ searchParams }: JobsPageProps) {
+  // Await searchParams before using them
+  const params = await searchParams;
+
   const filters: JobFilters = {
-    country: searchParams.country as string,
-    industry: searchParams.industry as string,
-    city: searchParams.city as string,
-    search: searchParams.search as string,
-    minEmployees: searchParams.minEmployees as string,
-    maxEmployees: searchParams.maxEmployees as string,
+    country: params.country as string,
+    industry: params.industry as string,
+    city: params.city as string,
+    search: params.search as string,
+    minEmployees: params.minEmployees as string,
+    maxEmployees: params.maxEmployees as string,
   };
 
   return (
@@ -25,20 +28,20 @@ export default async function JobsPage({ searchParams }: JobsPageProps) {
 
       {/* Main Content */}
       <main className="flex-grow">
-        <div className="container mx-auto px-4 py-8 bg-slate-50 dark:bg-gray-900">
-          <div className="flex justify-center items-center mb-8 text-center w-full">
-            <h1 className="text-3xl font-bold text-gray-800 dark:text-white text-center justify-self-center">
+        <div className="container mx-auto px-2 sm:px-4 py-4 sm:py-8 bg-slate-50 dark:bg-gray-900">
+          <div className="flex justify-center items-center mb-4 sm:mb-8 text-center w-full">
+            <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 dark:text-white text-center justify-self-center">
               Curated List of Visa Sponsorship Companies
             </h1>
           </div>
-          <div className="grid grid-cols-1 xl:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 sm:gap-8">
             {/* Filters Sidebar */}
-            <div className="md:col-span-1">
+            <div className="lg:col-span-1">
               <JobSearch initialFilters={filters} />
             </div>
 
             {/* Results */}
-            <div className="md:col-span-3">
+            <div className="lg:col-span-3">
               <Suspense
                 fallback={
                   <div className="text-gray-700 dark:text-gray-300">Loading results...</div>
