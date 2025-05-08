@@ -23,6 +23,9 @@ const transformCompany = (company: any): Company => ({
   numberOfEmployees: company['number-of-employees'],
   country: company.country,
   linkedin: company.linkedin || '',
+  visaSponsorship: company.visaSponsorship || false,
+  remote: company.remote || false,
+  id: company.id || '',
 });
 
 const transformCompanies = (companies: any[]): Company[] =>

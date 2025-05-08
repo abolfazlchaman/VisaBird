@@ -2,31 +2,43 @@ import { Suspense } from 'react';
 import { JobFilters } from '@/types/jobs';
 import { JobSearch } from '@/components/jobs/job-search';
 import { JobResults } from '@/components/jobs/job-results';
+import { ThemeSwitch } from '@/components/theme-switch';
 
 interface JobsPageProps {
-  searchParams: JobFilters;
+  searchParams: { [key: string]: string | string[] | undefined };
 }
 
-export default function JobsPage({ searchParams }: JobsPageProps) {
-  return (
-    <main className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-8">Find Jobs with Visa Sponsorship</h1>
+export default async function JobsPage({ searchParams }: JobsPageProps) {
+  const filters: JobFilters = {
+    country: searchParams.country as string,
+    industry: searchParams.industry as string,
+    city: searchParams.city as string,
+    search: searchParams.search as string,
+    minEmployees: searchParams.minEmployees as string,
+    maxEmployees: searchParams.maxEmployees as string,
+  };
 
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+  return (
+    <div className="container mx-auto px-4 py-8 bg-white dark:bg-gray-900">
+      <div className="flex justify-between items-center mb-8">
+        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Visa Sponsorship Jobs</h1>
+        <ThemeSwitch />
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
         {/* Filters Sidebar */}
-        <aside className="lg:col-span-1">
-          <Suspense fallback={<div>Loading filters...</div>}>
-            <JobSearch initialFilters={searchParams} />
-          </Suspense>
-        </aside>
+        <div className="md:col-span-1">
+          <JobSearch initialFilters={filters} />
+        </div>
 
         {/* Results */}
-        <div className="lg:col-span-3">
-          <Suspense fallback={<div>Loading results...</div>}>
-            <JobResults filters={searchParams} />
+        <div className="md:col-span-3">
+          <Suspense
+            fallback={<div className="text-gray-700 dark:text-gray-300">Loading results...</div>}
+          >
+            <JobResults filters={filters} />
           </Suspense>
         </div>
       </div>
-    </main>
+    </div>
   );
 }
