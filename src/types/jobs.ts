@@ -1,11 +1,15 @@
 export interface Company {
+  id: string;
   name: string;
-  yearFounded: string;
   industry: string;
-  city: string;
-  numberOfEmployees: string;
   country: string;
-  linkedin: string;
+  city: string;
+  linkedin?: string;
+  logo?: string;
+  visaSponsorship: boolean;
+  remote: boolean;
+  yearFounded: string;
+  numberOfEmployees: string;
 }
 
 export interface JobFilters {
@@ -18,6 +22,6 @@ export interface JobFilters {
 }
 
 export interface JobSearchParams extends JobFilters {
-  page?: number;
-  limit?: number;
+  page?: string;
+  limit?: string;
 } 
