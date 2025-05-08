@@ -42,7 +42,7 @@ VisaBird is an open-source platform that helps international professionals find 
 git clone https://github.com/abolfazlchaman/VisaBird.git
 ```
 
-2. Switch to Node.js 18.x:
+2. Switch to Node.js 22.x:
 ```bash
 nvm install && nvm use
 ```
