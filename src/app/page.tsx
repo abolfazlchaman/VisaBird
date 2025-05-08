@@ -7,6 +7,43 @@ import { HowItWorks } from '@/components/how-it-works';
 import { ForEmployers } from '@/components/for-employers';
 import Image from 'next/image';
 import heroIMG from '@/public/images/image.webp';
+import { HomeSearch } from '@/components/home-search';
+
+const COUNTRIES = [
+  'Germany',
+  'United Kingdom',
+  'Netherlands',
+  'France',
+  'Spain',
+  'Italy',
+  'Sweden',
+  'Denmark',
+  'Norway',
+  'Finland',
+  'Ireland',
+  'Austria',
+  'Belgium',
+  'New Zealand',
+  'Turkey',
+];
+
+const INDUSTRIES = [
+  'Software',
+  'Consulting',
+  'Banking',
+  'Healthcare',
+  'Automotive',
+  'Pharmaceuticals',
+  'Telecommunications',
+  'Engineering',
+  'Insurance',
+  'Consumer Goods',
+  'Chemicals',
+  'Logistics',
+  'Aviation',
+  'Semiconductor',
+  'Cloud Computing',
+];
 
 export default function Home() {
   return (
@@ -41,7 +78,6 @@ export default function Home() {
           </div>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a
-              // href="#search"
               href="/jobs"
               className="bg-white text-indigo-600 hover:bg-indigo-50 px-8 py-3 rounded-lg font-medium text-lg transition"
             >
@@ -69,50 +105,7 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="max-w-5xl mx-auto bg-gray-50 dark:bg-gray-700 p-6 rounded-xl shadow-lg">
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-              <div>
-                <label className="block text-gray-700 dark:text-gray-300 mb-2">Country</label>
-                <select className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 dark:bg-gray-800 dark:text-white">
-                  <option value="">All Countries</option>
-                  <option value="uk">United Kingdom</option>
-                  <option value="canada">Canada</option>
-                  <option value="germany">Germany</option>
-                  <option value="usa">United States</option>
-                  <option value="australia">Australia</option>
-                </select>
-              </div>
-
-              <div>
-                <label className="block text-gray-700 dark:text-gray-300 mb-2">Industry</label>
-                <select className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 dark:bg-gray-800 dark:text-white">
-                  <option value="">All Industries</option>
-                  <option value="tech">Technology</option>
-                  <option value="healthcare">Healthcare</option>
-                  <option value="finance">Finance</option>
-                  <option value="engineering">Engineering</option>
-                  <option value="education">Education</option>
-                </select>
-              </div>
-
-              <div>
-                <label className="block text-gray-700 dark:text-gray-300 mb-2">Visa Type</label>
-                <select className="w-full px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 dark:bg-gray-800 dark:text-white">
-                  <option value="">All Visa Types</option>
-                  <option value="work">Work Visa</option>
-                  <option value="skilled">Skilled Worker</option>
-                  <option value="intra">Intra-Company Transfer</option>
-                  <option value="student">Student Visa</option>
-                </select>
-              </div>
-
-              <div className="flex items-end">
-                <button className="w-full bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-lg font-medium transition">
-                  Search
-                </button>
-              </div>
-            </div>
-          </div>
+          <HomeSearch />
 
           {/* Recent Sponsors Section */}
           <RecentSponsors />
@@ -141,7 +134,7 @@ export default function Home() {
                 Comprehensive Search
               </h3>
               <p className="text-gray-600 dark:text-gray-300">
-                Filter companies by country, industry, and visa type to find exactly what you're
+                Filter companies by country, industry, and company size to find exactly what you're
                 looking for.
               </p>
             </div>
