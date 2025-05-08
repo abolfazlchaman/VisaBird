@@ -140,7 +140,7 @@ export default function Home() {
           <button
             onClick={toggleTheme}
             aria-label='Toggle theme'
-            className='fixed bottom-6 right-6 p-3 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 shadow-lg hover:scale-110 transition-transform z-50 h-12 w-12 rounded-full'>
+            className='fixed bottom-6 right-6 p-3 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 shadow-lg hover:scale-110 transition-transform z-50 h-12 w-12'>
             {/* Render the selected icon */}
             <ThemeIcon />
           </button>
