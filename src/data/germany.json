@@ -1,0 +1,2427 @@
+[
+  {
+    "name": "Celonis",
+    "year-founded": "2011",
+    "industry": "Consulting",
+    "city": "Munich",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/celonis/jobs/"
+  },
+  {
+    "name": "Siemens AG",
+    "year-founded": "1847",
+    "industry": "Conglomerate",
+    "city": "Munich",
+    "number-of-employees": "300000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/future-energy-group-srl/jobs"
+  },
+  {
+    "name": "BASF SE",
+    "year-founded": "1865",
+    "industry": "Chemicals",
+    "city": "Ludwigshafen",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/basf/jobs"
+  },
+  {
+    "name": "Volkswagen AG",
+    "year-founded": "1937",
+    "industry": "Automotive",
+    "city": "Wolfsburg",
+    "number-of-employees": "600000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/volkswagen-group/jobs"
+  },
+  {
+    "name": "Deutsche Bank AG",
+    "year-founded": "1870",
+    "industry": "Banking",
+    "city": "Frankfurt",
+    "number-of-employees": "80000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dkb/jobs"
+  },
+  {
+    "name": "SAP SE",
+    "year-founded": "1972",
+    "industry": "Software",
+    "city": "Walldorf",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sap-deutschland-se-&-co.-kg/jobs"
+
+  },
+  {
+    "name": "Allianz SE",
+    "year-founded": "1890",
+    "industry": "Insurance",
+    "city": "Munich",
+    "number-of-employees": "150000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/allianz/jobs"
+  },
+  {
+    "name": "BMW AG",
+    "year-founded": "1916",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bmw-group/jobs"
+  },
+  {
+    "name": "Daimler AG",
+    "year-founded": "1926",
+    "industry": "Automotive",
+    "city": "Stuttgart",
+    "number-of-employees": "300000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/daimlertruckag/jobs"
+  },
+  {
+    "name": "Fresenius SE & Co. KGaA",
+    "year-founded": "1912",
+    "industry": "Healthcare",
+    "city": "Bad Homburg",
+    "number-of-employees": "300000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/fresenius-se/jobs"
+  },
+  {
+    "name": "Bayer AG",
+    "year-founded": "1863",
+    "industry": "Pharmaceuticals",
+    "city": "Leverkusen",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bayer-schweiz-ag/jobs"
+  },
+  {
+    "name": "IONOS",
+    "year-founded": "1988",
+    "industry": "Cloud Computing",
+    "city": "Karlsruhe",
+    "number-of-employees": "4000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ionos/"
+  },
+  {
+    "name": "Deutsche Telekom AG",
+    "year-founded": "1995",
+    "industry": "Telecommunications",
+    "city": "Bonn",
+    "number-of-employees": "200000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/telekom/jobs"
+  },
+  {
+    "name": "Thyssenkrupp AG",
+    "year-founded": "1999",
+    "industry": "Industrial",
+    "city": "Essen",
+    "number-of-employees": "150000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/thyssenkrupp/jobs"
+  },
+  {
+    "name": "Henkel AG & Co. KGaA",
+    "year-founded": "1876",
+    "industry": "Consumer Goods",
+    "city": "Düsseldorf",
+    "number-of-employees": "50000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/henkel-ag-&-co.-kgaa/jobs"
+  },
+  {
+    "name": "Continental AG",
+    "year-founded": "1871",
+    "industry": "Automotive",
+    "city": "Hanover",
+    "number-of-employees": "200000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/continental/jobs"
+  },
+  {
+    "name": "Deutsche Lufthansa AG",
+    "year-founded": "1953",
+    "industry": "Aviation",
+    "city": "Cologne",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/lufthansa-group/jobs"
+  },
+  {
+    "name": "Merck KGaA",
+    "year-founded": "1668",
+    "industry": "Pharmaceuticals",
+    "city": "Darmstadt",
+    "number-of-employees": "60000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/emd-affiliates-of-merck-kgaa-darmstadt-germany/jobs"
+  },
+  {
+    "name": "Deutsche Post DHL Group",
+    "year-founded": "1995",
+    "industry": "Logistics",
+    "city": "Bonn",
+    "number-of-employees": "550000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/showcase/dpdhl-investor-relations/jobs"
+  },
+  {
+    "name": "Robert Bosch GmbH",
+    "year-founded": "1886",
+    "industry": "Engineering",
+    "city": "Gerlingen",
+    "number-of-employees": "400000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bosch/jobs"
+  },
+  {
+    "name": "Evonik Industries AG",
+    "year-founded": "2007",
+    "industry": "Chemicals",
+    "city": "Essen",
+    "number-of-employees": "32000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/evonik/jobs"
+  },
+  {
+    "name": "Infineon Technologies AG",
+    "year-founded": "1999",
+    "industry": "Semiconductor",
+    "city": "Neubiberg",
+    "number-of-employees": "46000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/infineon-technologies/jobs"
+  },
+  {
+    "name": "Beiersdorf AG",
+    "year-founded": "1882",
+    "industry": "Consumer Goods",
+    "city": "Hamburg",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/beiersdorf/jobs"
+  },
+  {
+    "name": "Lanxess AG",
+    "year-founded": "2004",
+    "industry": "Chemicals",
+    "city": "Cologne",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/lanxess/jobs"
+  },
+  {
+    "name": "HeidelbergCement AG",
+    "year-founded": "1873",
+    "industry": "Construction",
+    "city": "Heidelberg",
+    "number-of-employees": "50000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/heidelbergcementfrance/jobs"
+  },
+  {
+    "name": "Osram Licht AG",
+    "year-founded": "1906",
+    "industry": "Lighting",
+    "city": "Munich",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/osram-licht-ag/jobs"
+  },
+  {
+    "name": "Wacker Neuson Linz GmbH",
+    "year-founded": "1848",
+    "industry": "Construction Equipment",
+    "city": "Munich",
+    "number-of-employees": "5000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wacker-neuson-linz-gmbh/jobs"
+  },
+  {
+    "name": "Kärcher GmbH & Co. KG",
+    "year-founded": "1935",
+    "industry": "Cleaning Equipment",
+    "city": "Winnenden",
+    "number-of-employees": "13000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/alfred-k%C3%A4rcher-gmbh-&-co.-kg/jobs"
+  },
+  {
+    "name": "Metro AG",
+    "year-founded": "1964",
+    "industry": "Wholesale",
+    "city": "Düsseldorf",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/metro-ag/jobs"
+  },
+  {
+    "name": "Bilfinger SE",
+    "year-founded": "1880",
+    "industry": "Engineering",
+    "city": "Mannheim",
+    "number-of-employees": "30000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bilfinger/jobs"
+  },
+  {
+    "name": "RWE AG",
+    "year-founded": "1898",
+    "industry": "Energy",
+    "city": "Essen",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rwe-/jobs"
+  },
+  {
+    "name": "MTU Aero Engines AG",
+    "year-founded": "1934",
+    "industry": "Aerospace",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mtu-aero-engines/jobs"
+  },
+  {
+    "name": "Metro Markets",
+    "year-founded": "2018",
+    "industry": "Internet Marketplace Platforms",
+    "city": "Düsseldorf",
+    "number-of-employees": "700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/metro-markets-gmbh/jobs"
+  },
+  {
+    "name": "Fresenius Medical Care AG & Co. KGaA",
+    "year-founded": "1996",
+    "industry": "Healthcare",
+    "city": "Bad Homburg",
+    "number-of-employees": "120000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/freseniusmedicalcare/jobs"
+  },
+  {
+    "name": "Deutsche Bahn AG",
+    "year-founded": "1994",
+    "industry": "Transportation",
+    "city": "Berlin",
+    "number-of-employees": "300000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/deutschebahn/jobs"
+  },
+  {
+    "name": "E.ON SE",
+    "year-founded": "2000",
+    "industry": "Energy",
+    "city": "Essen",
+    "number-of-employees": "70000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/e-on/jobs"
+  },
+  {
+    "name": "FUCHS PETROLUB SE",
+    "year-founded": "1931",
+    "industry": "Chemicals",
+    "city": "Mannheim",
+    "number-of-employees": "5000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/fuchs-petrolub-se/jobs"
+  },
+  {
+    "name": "Evonik Resource Efficiency GmbH",
+    "year-founded": "2007",
+    "industry": "Specialty Chemicals",
+    "city": "Essen",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/evonik-resource-efficiency-gmbh/jobs"
+  },
+  {
+    "name": "Deutsche Wohnen SE",
+    "year-founded": "1998",
+    "industry": "Real Estate",
+    "city": "Berlin",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/deutsche-wohnen-gruppe/jobs"
+  },
+  {
+    "name": "Symrise AG",
+    "year-founded": "2003",
+    "industry": "Flavors and Fragrances",
+    "city": "Holzminden",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/symrise/jobs"
+  },
+  {
+    "name": "Brenntag AG",
+    "year-founded": "1874",
+    "industry": "Chemicals Distribution",
+    "city": "Essen",
+    "number-of-employees": "17000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/brenntag/jobs"
+  },
+  {
+    "name": "ProSiebenSat.1 Media SE",
+    "year-founded": "2000",
+    "industry": "Media",
+    "city": "Unterföhring",
+    "number-of-employees": "7000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/prosiebensat1-media-se/jobs"
+  },
+  {
+    "name": "PUMA SE",
+    "year-founded": "1948",
+    "industry": "Apparel",
+    "city": "Herzogenaurach",
+    "number-of-employees": "13000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/puma/jobs"
+  },
+  {
+    "name": "Celesio AG",
+    "year-founded": "1835",
+    "industry": "Healthcare",
+    "city": "Stuttgart",
+    "number-of-employees": "40000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/celesio-ag/jobs"
+  },
+  {
+    "name": "KION Group AG",
+    "year-founded": "2006",
+    "industry": "Material Handling",
+    "city": "Frankfurt",
+    "number-of-employees": "35000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kiongroup/jobs"
+  },
+  {
+    "name": "Wacker Chemie AG",
+    "year-founded": "1914",
+    "industry": "Chemicals",
+    "city": "Munich",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wacker/jobs"
+  },
+  {
+    "name": "Osram Continental GmbH",
+    "year-founded": "2018",
+    "industry": "Automotive Lighting",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/osram-continental/jobs"
+  },
+  {
+    "name": "TÜV SÜD AG",
+    "year-founded": "1866",
+    "industry": "Testing and Certification",
+    "city": "Munich",
+    "number-of-employees": "25000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/tuvsud/jobs"
+  },
+  {
+    "name": "Knorr-Bremse AG",
+    "year-founded": "1905",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "29000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/knorr-bremse/jobs"
+  },
+  {
+    "name": "Stada Arzneimittel AG",
+    "year-founded": "1895",
+    "industry": "Pharmaceuticals",
+    "city": "Bad Vilbel",
+    "number-of-employees": "12000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/stada-arzneimittel-gmbh/jobs"
+  },
+  {
+    "name": "Ceconomy AG",
+    "year-founded": "2017",
+    "industry": "Consumer Electronics",
+    "city": "Düsseldorf",
+    "number-of-employees": "50000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ceconomy/jobs"
+  },
+  {
+    "name": "Deutsche Pfandbriefbank AG",
+    "year-founded": "2009",
+    "industry": "Banking",
+    "city": "Munich",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/deutsche-pfandbriefbank-ag/jobs"
+  },
+  {
+    "name": "Merck Life Science GmbH",
+    "year-founded": "1668",
+    "industry": "Life Sciences",
+    "city": "Darmstadt",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/merck-life-science/jobs"
+  },
+  {
+    "name": "ABB AG",
+    "year-founded": "1883",
+    "industry": "Industrial Automation",
+    "city": "Mannheim",
+    "number-of-employees": "110000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/abb/jobs"
+  },
+  {
+    "name": "ALTANA AG",
+    "year-founded": "1977",
+    "industry": "Specialty Chemicals",
+    "city": "Wesel",
+    "number-of-employees": "6000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/altana-ag/jobs"
+  },
+  {
+    "name": "Wacker Silicones GmbH",
+    "year-founded": "1903",
+    "industry": "Silicones",
+    "city": "Munich",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wacker/jobs"
+  },
+  {
+    "name": "METROPOLE INVESTMENTS LTD.",
+    "year-founded": "2016",
+    "industry": "Real Estate",
+    "city": "Berlin",
+    "number-of-employees": "2000",
+    "country": "Germany"
+  },
+  {
+    "name": "Dürr AG",
+    "year-founded": "1895",
+    "industry": "Machinery and Equipment",
+    "city": "Stuttgart",
+    "number-of-employees": "17000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/duerr/jobs"
+  },
+  {
+    "name": "Klüber Lubrication München SE & Co. KG",
+    "year-founded": "1929",
+    "industry": "Lubricants",
+    "city": "Munich",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kluber-lubrication_102925/jobs"
+  },
+  {
+    "name": "EnBW Energie Baden-Württemberg AG",
+    "year-founded": "1997",
+    "industry": "Energy",
+    "city": "Karlsruhe",
+    "number-of-employees": "24000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/enbw/jobs"
+  },
+  {
+    "name": "Deutsche Apotheker- und Ärztebank eG",
+    "year-founded": "1902",
+    "industry": "Banking",
+    "city": "Düsseldorf",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/apobank/jobs"
+  },
+  {
+    "name": "KWS SAAT SE & Co. KGaA",
+    "year-founded": "1856",
+    "industry": "Agriculture",
+    "city": "Einbeck",
+    "number-of-employees": "5000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kwsgroup/jobs"
+  },
+  {
+    "name": "Axel Springer SE",
+    "year-founded": "1946",
+    "industry": "Media",
+    "city": "Berlin",
+    "number-of-employees": "16000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/axelspringer/jobs"
+  },
+  {
+    "name": "Munich Re Group",
+    "year-founded": "1880",
+    "industry": "Insurance",
+    "city": "Munich",
+    "number-of-employees": "40000",
+    "country": "Germany"
+  },
+  {
+    "name": "Rheinmetall AG",
+    "year-founded": "1889",
+    "industry": "Defense Automotive",
+    "city": "Düsseldorf",
+    "number-of-employees": "25000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rheinmetall/jobs"
+  },
+  {
+    "name": "Fielmann AG",
+    "year-founded": "1972",
+    "industry": "Optics and Eyewear",
+    "city": "Hamburg",
+    "number-of-employees": "21000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/fielmann-ag/jobs"
+  },
+  {
+    "name": "Schaeffler AG",
+    "year-founded": "1946",
+    "industry": "Automotive and Industrial",
+    "city": "Herzogenaurach",
+    "number-of-employees": "83000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/schaeffler/jobs"
+  },
+  {
+    "name": "TRUMPF GmbH + Co. KG",
+    "year-founded": "1923",
+    "industry": "Machine Tools",
+    "city": "Ditzingen",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/trumpf-se-co-kg/jobs"
+  },
+  {
+    "name": "Commerzbank AG",
+    "year-founded": "1870",
+    "industry": "Banking and Financial Services",
+    "city": "Frankfurt",
+    "number-of-employees": "39000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/commerzbank-ag/jobs"
+  },
+  {
+    "name": "TÜV Rheinland AG",
+    "year-founded": "1872",
+    "industry": "Testing Inspection and Certification",
+    "city": "Cologne",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/tuv-rheinland-group/jobs"
+  },
+  {
+    "name": "Linde plc",
+    "year-founded": "1879",
+    "industry": "Industrial Gases",
+    "city": "Munich",
+    "number-of-employees": "80000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/linde/jobs"
+  },
+  {
+    "name": "Vodafone GmbH",
+    "year-founded": "1988",
+    "industry": "Telecommunications",
+    "city": "Düsseldorf",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/vodafone/jobs"
+  },
+  {
+    "name": "EON SE",
+    "year-founded": "2000",
+    "industry": "Utilities",
+    "city": "Essen",
+    "number-of-employees": "75000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/eon-inc/jobs"
+  },
+  {
+    "name": "Wintershall Dea GmbH",
+    "year-founded": "1894",
+    "industry": "Oil and Gas",
+    "city": "Kassel",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wintershalldea/jobs"
+  },
+  {
+    "name": "Uniper SE",
+    "year-founded": "2016",
+    "industry": "Utilities",
+    "city": "Düsseldorf",
+    "number-of-employees": "11000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/uniper-se/jobs"
+  },
+  {
+    "name": "Nordex SE",
+    "year-founded": "1985",
+    "industry": "Renewable Energy",
+    "city": "Hamburg",
+    "number-of-employees": "8000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/nordex/jobs"
+  },
+  {
+    "name": "adidas AG",
+    "year-founded": "1949",
+    "industry": "Apparel and Footwear",
+    "city": "Herzogenaurach",
+    "number-of-employees": "60000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/adidas/jobs"
+  },
+  {
+    "name": "MANN+HUMMEL GmbH",
+    "year-founded": "1941",
+    "industry": "Automotive and Industrial Filters",
+    "city": "Ludwigsburg",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mannhummel/jobs"
+  },
+  {
+    "name": "Fresenius Kabi Deutschland GmbH",
+    "year-founded": "1912",
+    "industry": "Healthcare",
+    "city": "Bad Homburg",
+    "number-of-employees": "40000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/freseniuskabi/jobs"
+  },
+  {
+    "name": "Carl Zeiss AG",
+    "year-founded": "1846",
+    "industry": "Optics and Optoelectronics",
+    "city": "Oberkochen",
+    "number-of-employees": "30000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/carl-zeiss-do-brasil/jobs"
+  },
+  {
+    "name": "Miele & Cie. KG",
+    "year-founded": "1899",
+    "industry": "Home Appliances",
+    "city": "Gütersloh",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": ""
+  },
+  {
+    "name": "Fraport AG",
+    "year-founded": "1924",
+    "industry": "Airport Services",
+    "city": "Frankfurt",
+    "number-of-employees": "22000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/fraport-ag/jobs"
+  },
+  {
+    "name": "Covestro Deutschland AG",
+    "year-founded": "2015",
+    "industry": "Chemicals",
+    "city": "Leverkusen",
+    "number-of-employees": "17000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/covestro-deutschland-ag/jobs"
+  },
+  {
+    "name": "Siemens Energy AG",
+    "year-founded": "2020",
+    "industry": "Energy",
+    "city": "Munich",
+    "number-of-employees": "90000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/siemens-energy/jobs"
+  },
+  {
+    "name": "Innogy SE",
+    "year-founded": "2016",
+    "industry": "Energy",
+    "city": "Essen",
+    "number-of-employees": "40000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/innogy-se/jobs"
+  },
+  {
+    "name": "EWE AG",
+    "year-founded": "1936",
+    "industry": "Energy and Telecommunications",
+    "city": "Oldenburg",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ewe-ag/jobs"
+  },
+  {
+    "name": "Drägerwerk AG & Co. KGaA",
+    "year-founded": "1889",
+    "industry": "Medical and Safety Technology",
+    "city": "Lübeck",
+    "number-of-employees": "14000",
+    "country": "Germany"
+  },
+  {
+    "name": "TUI AG",
+    "year-founded": "1923",
+    "industry": "Tourism and Travel",
+    "city": "Hannover",
+    "number-of-employees": "70000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/tuigroup/jobs"
+  },
+  {
+    "name": "ZF Friedrichshafen AG",
+    "year-founded": "1915",
+    "industry": "Automotive Technology",
+    "city": "Friedrichshafen",
+    "number-of-employees": "160000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/zf-group/jobs"
+  },
+  {
+    "name": "Hilti Deutschland AG",
+    "year-founded": "1952",
+    "industry": "Construction Technology",
+    "city": "Kaufering",
+    "number-of-employees": "30000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hiltideutschlandag/jobs"
+  },
+  {
+    "name": "AUDI AG",
+    "year-founded": "1909",
+    "industry": "Automotive",
+    "city": "Ingolstadt",
+    "number-of-employees": "90000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/audi-ag/jobs"
+  },
+  {
+    "name": "Osram GmbH",
+    "year-founded": "1906",
+    "industry": "Lighting Solutions",
+    "city": "Munich",
+    "number-of-employees": "26000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ams-osram/jobs"
+  },
+  {
+    "name": "B. Braun Melsungen AG",
+    "year-founded": "1839",
+    "industry": "Medical Technology",
+    "city": "Melsungen",
+    "number-of-employees": "63000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bbraun-group/jobs"
+  },
+  {
+    "name": "Bertelsmann SE & Co. KGaA",
+    "year-founded": "1835",
+    "industry": "Media",
+    "city": "Gütersloh",
+    "number-of-employees": "126000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bertelsmann/jobs"
+  },
+  {
+    "name": "KfW Bank",
+    "year-founded": "1948",
+    "industry": "Development Bank",
+    "city": "Frankfurt",
+    "number-of-employees": "6000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kfw/jobs"
+  },
+  {
+    "name": "DZ BANK AG",
+    "year-founded": "1872",
+    "industry": "Cooperative Banking",
+    "city": "Frankfurt",
+    "number-of-employees": "29000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dzbank/jobs"
+  },
+  {
+    "name": "Deutsche Börse AG",
+    "year-founded": "1992",
+    "industry": "Financial Services",
+    "city": "Eschborn",
+    "number-of-employees": "6000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/deutscheboerse/jobs"
+  },
+  {
+    "name": "Merck Group",
+    "year-founded": "1668",
+    "industry": "Science and Technology",
+    "city": "Darmstadt",
+    "number-of-employees": "58000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/merck-group/jobs"
+  },
+  {
+    "name": "Freudenberg Group",
+    "year-founded": "1849",
+    "industry": "Diversified Industries",
+    "city": "Weinheim",
+    "number-of-employees": "52000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/freudenberg-group/jobs"
+  },
+  {
+    "name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+    "year-founded": "1890",
+    "industry": "Audit Tax and Advisory",
+    "city": "Berlin",
+    "number-of-employees": "12000",
+    "country": "Germany"
+  },
+  {
+    "name": "Boehringer Ingelheim GmbH",
+    "year-founded": "1885",
+    "industry": "Pharmaceuticals",
+    "city": "Ingelheim",
+    "number-of-employees": "51000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/boehringer-ingelheim/jobs"
+  },
+  {
+    "name": "T-Systems International GmbH",
+    "year-founded": "2000",
+    "industry": "IT and Telecommunications",
+    "city": "Frankfurt",
+    "number-of-employees": "37000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/t-systems/jobs"
+  },
+  {
+    "name": "Siemens Healthineers AG",
+    "year-founded": "2018",
+    "industry": "Medical Technology",
+    "city": "Erlangen",
+    "number-of-employees": "54000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/siemens-healthineers/jobs"
+  },
+  {
+    "name": "Dr. Ing. h.c. F. Porsche AG",
+    "year-founded": "1931",
+    "industry": "Automotive",
+    "city": "Stuttgart",
+    "number-of-employees": "35000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/porsche-ag/jobs"
+  },
+  {
+    "name": "PwC Germany",
+    "year-founded": "1900",
+    "industry": "Accounting and Consulting",
+    "city": "Frankfurt",
+    "number-of-employees": "11000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/pwc-deutschland/jobs"
+  },
+  {
+    "name": "Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft",
+    "year-founded": "1895",
+    "industry": "Accounting and Consulting",
+    "city": "Stuttgart",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ernst-&-young-gmbh-wirtschaftspr%C3%BCfungsgesellschaft/jobs"
+  },
+  {
+    "name": "Deloitte GmbH Wirtschaftsprüfungsgesellschaft",
+    "year-founded": "1896",
+    "industry": "Accounting and Consulting",
+    "city": "Munich",
+    "number-of-employees": "12000",
+    "country": "Germany"
+  },
+  {
+    "name": "Volkswagen Commercial Vehicles",
+    "year-founded": "1947",
+    "industry": "Automotive",
+    "city": "Hanover",
+    "number-of-employees": "17000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/volkswagen-commercial-vehicles-/jobs"
+  },
+  {
+    "name": "MAN Truck & Bus AG",
+    "year-founded": "1758",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "37000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/man-commercial-vehicles/jobs"
+  },
+  {
+    "name": "SAP Concur",
+    "year-founded": "1993",
+    "industry": "Software",
+    "city": "Munich",
+    "number-of-employees": "7000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sapconcur/jobs"
+  },
+  {
+    "name": "Zalando SE",
+    "year-founded": "2008",
+    "industry": "E-commerce",
+    "city": "Berlin",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/zalando/jobs"
+  },
+  {
+    "name": "Delivery Hero SE",
+    "year-founded": "2011",
+    "industry": "Food Delivery",
+    "city": "Berlin",
+    "number-of-employees": "27000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/delivery-hero-se/jobs"
+  },
+  {
+    "name": "HelloFresh SE",
+    "year-founded": "2011",
+    "industry": "Meal Kit Delivery",
+    "city": "Berlin",
+    "number-of-employees": "11000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hellofresh/jobs"
+  },
+  {
+    "name": "N26 GmbH",
+    "year-founded": "2013",
+    "industry": "Banking and Finance",
+    "city": "Berlin",
+    "number-of-employees": "4000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/n26/jobs"
+  },
+  {
+    "name": "FlixBus GmbH",
+    "year-founded": "2013",
+    "industry": "Transportation",
+    "city": "Munich",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/flixbus/jobs"
+  },
+  {
+    "name": "TeamViewer AG",
+    "year-founded": "2005",
+    "industry": "Software",
+    "city": "Göppingen",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/teamviewer/jobs"
+  },
+  {
+    "name": "Bosch Rexroth AG",
+    "year-founded": "1795",
+    "industry": "Engineering and Technology",
+    "city": "Lohr am Main",
+    "number-of-employees": "29000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bosch-rexroth/jobs"
+  },
+  {
+    "name": "Mercedes-Benz AG",
+    "year-founded": "1926",
+    "industry": "Automotive",
+    "city": "Stuttgart",
+    "number-of-employees": "150000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mercedes-benz_ag/jobs"
+  },
+  {
+    "name": "Fresenius Helios",
+    "year-founded": "1995",
+    "industry": "Healthcare and Hospitals",
+    "city": "Berlin",
+    "number-of-employees": "120000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/helios-kliniken-gmbh/jobs"
+  },
+  {
+    "name": "Bosch Gruppe",
+    "year-founded": "1886",
+    "industry": "Engineering and Technology",
+    "city": "Gerlingen",
+    "number-of-employees": "400000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/bosch/jobs"
+  },
+  {
+    "name": "Deutsche Bundesbank",
+    "year-founded": "1957",
+    "industry": "Central Banking",
+    "city": "Frankfurt",
+    "number-of-employees": "9000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/deutsche-bundesbank/jobs"
+  },
+  {
+    "name": "Schenker AG",
+    "year-founded": "1872",
+    "industry": "Freight Transportation and Logistics",
+    "city": "Essen",
+    "number-of-employees": "76000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dbschenker/jobs"
+  },
+  {
+    "name": "PricewaterhouseCoopers GmbH",
+    "year-founded": "1849",
+    "industry": "Professional Services and Audit",
+    "city": "Frankfurt",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/pwc/jobs"
+  },
+  {
+    "name": "IBM Deutschland GmbH",
+    "year-founded": "1910",
+    "industry": "Information Technology and Services",
+    "city": "Ehningen",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ibm/jobs"
+  },
+  {
+    "name": "Amazon Deutschland Services GmbH",
+    "year-founded": "1994",
+    "industry": "E-commerce and Retail",
+    "city": "Munich",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/amazon/jobs"
+  },
+  {
+    "name": "Kühne + Nagel International AG",
+    "year-founded": "1890",
+    "industry": "Logistics and Supply Chain Management",
+    "city": "Bremen",
+    "number-of-employees": "82000",
+    "country": "Germany"
+  },
+  {
+    "name": "HUGO BOSS AG",
+    "year-founded": "1924",
+    "industry": "Fashion and Apparel",
+    "city": "Metzingen",
+    "number-of-employees": "14000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hugo-boss/jobs"
+  },
+  {
+    "name": "Fujitsu Technology Solutions GmbH",
+    "year-founded": "2009",
+    "industry": "Information Technology and Services",
+    "city": "Munich",
+    "number-of-employees": "1400",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/fujitsu/jobs"
+  },
+  {
+    "name": "Kuehne + Nagel (AG & Co.) KG",
+    "year-founded": "1890",
+    "industry": "Logistics and Freight Forwarding",
+    "city": "Hamburg",
+    "number-of-employees": "78000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kuehne-nagel/jobs"
+  },
+  {
+    "name": "Merz Pharma GmbH & Co. KGaA",
+    "year-founded": "1908",
+    "industry": "Pharmaceuticals and Aesthetics",
+    "city": "Frankfurt",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/merz-pharma-gmbh-co-kgaa-reinheim/jobs"
+  },
+  {
+    "name": "Aldi Group",
+    "year-founded": "1946",
+    "industry": "Retail and Grocery",
+    "city": "Essen",
+    "number-of-employees": "100000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/aldi-sued/jobs"
+  },
+  {
+    "name": "Schwarz Gruppe",
+    "year-founded": "1930",
+    "industry": "Retail and Grocery",
+    "city": "Neckarsulm",
+    "number-of-employees": "450000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/schwarzgruppeint/jobs"
+  },
+  {
+    "name": "DMK Group",
+    "year-founded": "2001",
+    "industry": "Dairy and Food Processing",
+    "city": "Zeven",
+    "number-of-employees": "8000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dmkrestaurants/jobs"
+  },
+  {
+    "name": "KUKA Robotics GmbH",
+    "year-founded": "1898",
+    "industry": "Automation and Robotics",
+    "city": "Augsburg",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kukaglobal/jobs"
+  },
+  {
+    "name": "FlixMobility GmbH",
+    "year-founded": "2013",
+    "industry": "Mobility and Transportation",
+    "city": "Munich",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/flixmobility-gmbh/jobs"
+  },
+  {
+    "name": "Sartorius AG",
+    "year-founded": "1870",
+    "industry": "Biotechnology and Life Sciences",
+    "city": "Gottingen",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sartorius/jobs"
+  },
+  {
+    "name": "Wayfair GmbH",
+    "year-founded": "2014",
+    "industry": "E-commerce and Home Goods",
+    "city": "Berlin",
+    "number-of-employees": "5000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wayfair/jobs"
+  },
+  {
+    "name": "Home24 SE",
+    "year-founded": "2009",
+    "industry": "E-commerce and Home Furniture",
+    "city": "Berlin",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/home24/jobs"
+  },
+  {
+    "name": "Mister Spex GmbH",
+    "year-founded": "2007",
+    "industry": "E-commerce and Eyewear",
+    "city": "Berlin",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mister-spex/jobs"
+  },
+  {
+    "name": "Auto1 Group GmbH",
+    "year-founded": "2012",
+    "industry": "Automotive and Technology",
+    "city": "Berlin",
+    "number-of-employees": "4000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/auto1-group/jobs"
+  },
+  {
+    "name": "Foodspring GmbH",
+    "year-founded": "2013",
+    "industry": "Health and Nutrition",
+    "city": "Berlin",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/foodspring/jobs"
+  },
+  {
+    "name": "Raisin GmbH",
+    "year-founded": "2012",
+    "industry": "Fintech and Banking",
+    "city": "Berlin",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/join-raisin-ds/jobs"
+  },
+  {
+    "name": "smallpdf GmbH",
+    "year-founded": "2013",
+    "industry": "Software and Technology",
+    "city": "Berlin",
+    "number-of-employees": "100-249",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/smallpdf/jobs"
+  },
+  {
+    "name": "Jimdo GmbH",
+    "year-founded": "2007",
+    "industry": "Website Building and E-commerce",
+    "city": "Hamburg",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/jimdo/jobs"
+  },
+  {
+    "name": "Personio GmbH",
+    "year-founded": "2015",
+    "industry": "Human Resources and Software",
+    "city": "Munich",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/personio/jobs"
+  },
+  {
+    "name": "Marley Spoon AG",
+    "year-founded": "2014",
+    "industry": "Meal Kits and Food Delivery",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/marley-spoon/jobs"
+  },
+  {
+    "name": "HomeToGo GmbH",
+    "year-founded": "2014",
+    "industry": "Travel and Vacation Rentals",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hometogo/jobs"
+  },
+  {
+    "name": "Grover Group GmbH",
+    "year-founded": "2015",
+    "industry": "Consumer Electronics and Rentals",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/grover/jobs"
+  },
+  {
+    "name": "reBuy reCommerce GmbH",
+    "year-founded": "2009",
+    "industry": "E-commerce and Used Goods",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rebuy-recommerce-gmbh/jobs"
+  },
+  {
+    "name": "8fit GmbH",
+    "year-founded": "2014",
+    "industry": "Health and Fitness",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/8fit/jobs"
+  },
+  {
+    "name": "Personify XP GmbH",
+    "year-founded": "2014",
+    "industry": "Artificial Intelligence and Personalization",
+    "city": "Munich",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/personify-xp/jobs"
+  },
+  {
+    "name": "Sensorberg GmbH",
+    "year-founded": "2013",
+    "industry": "Internet of Things (IoT) and Proptech",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sensorberg-gmbh/jobs"
+  },
+  {
+    "name": "4tiitoo GmbH",
+    "year-founded": "2011",
+    "industry": "Human-Computer Interaction and Software",
+    "city": "Munich",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/4tiitoo/jobs"
+  },
+  {
+    "name": "Emteria GmbH",
+    "year-founded": "2015",
+    "industry": "Embedded Systems and Software",
+    "city": "Karlsruhe",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/emteria/jobs"
+  },
+  {
+    "name": "Vizibl GmbH",
+    "year-founded": "2014",
+    "industry": "Supply Chain and Procurement",
+    "city": "Munich",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/vizibl/jobs"
+  },
+  {
+    "name": "Joonko GmbH",
+    "year-founded": "2018",
+    "industry": "Human Resources and Diversity",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/joonkorecruitmentsoftware/jobs"
+  },
+  {
+    "name": "Carla Cargo GmbH",
+    "year-founded": "2016",
+    "industry": "E-mobility and Logistics",
+    "city": "Berlin",
+    "number-of-employees": "10-49",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/carlacargo/jobs"
+  },
+  {
+    "name": "KINEXON GmbH",
+    "year-founded": "2012",
+    "industry": "Internet of Things (IoT) and Sports Analytics",
+    "city": "Munich",
+    "number-of-employees": "10-49",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kinexon/jobs"
+  },
+  {
+    "name": "EyeEm Mobile GmbH",
+    "year-founded": "?",
+    "industry": "Photography and Artificial Intelligence",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/eyeem/jobs"
+  },
+  {
+    "name": "Contentful GmbH",
+    "year-founded": "?",
+    "industry": "Content Management and Headless CMS",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/contentful/jobs"
+  },
+  {
+    "name": "Aiven GmbH",
+    "year-founded": "?",
+    "industry": "Cloud Computing and Database Management",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/aiven/jobs"
+  },
+  {
+    "name": "Signavio GmbH",
+    "year-founded": "?",
+    "industry": "Business Process Management and Software",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/signavio/jobs"
+  },
+  {
+    "name": "Coyo GmbH",
+    "year-founded": "?",
+    "industry": "Internal Communications and Collaboration",
+    "city": "Hamburg",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/haiilo/jobs"
+  },
+  {
+    "name": "InVision GmbH",
+    "year-founded": "?",
+    "industry": "Digital Product Design and Prototyping",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/invisionapp/jobs"
+  },
+  {
+    "name": "Zenjob GmbH",
+    "year-founded": "?",
+    "industry": "On-demand Staffing and Gig Economy",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/zenjob/jobs"
+  },
+  {
+    "name": "Spryker Systems GmbH",
+    "year-founded": "?",
+    "industry": "E-commerce and Cloud Commerce",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/spryker/jobs"
+  },
+  {
+    "name": "Mambu GmbH",
+    "year-founded": "?",
+    "industry": "Banking and Financial Technology",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mambu/jobs"
+  },
+  {
+    "name": "TIER Mobility GmbH",
+    "year-founded": "?",
+    "industry": "Micro-mobility and E-scooters",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/tiermobility/jobs"
+  },
+  {
+    "name": "Quobyte GmbH",
+    "year-founded": "?",
+    "industry": "Data Storage and Software-defined Storage",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/quobyte/jobs"
+  },
+  {
+    "name": "Zattoo Europa AG",
+    "year-founded": "?",
+    "industry": "Streaming TV and Video",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/zattoo/jobs"
+  },
+  {
+    "name": "eGym GmbH",
+    "year-founded": "?",
+    "industry": "Fitness and Health Technology",
+    "city": "Munich",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/egym-global/jobs"
+  },
+  {
+    "name": "Cirplus GmbH",
+    "year-founded": "?",
+    "industry": "Circular Economy and Sustainable Materials",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/cirplus/jobs"
+  },
+  {
+    "name": "CoachHub GmbH",
+    "year-founded": "?",
+    "industry": "Professional Coaching and EdTech",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/coachhub/jobs"
+  },
+  {
+    "name": "Beekeeper AG",
+    "year-founded": "?",
+    "industry": "Internal Communication and Workplace Collaboration",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/beekeeper/jobs"
+  },
+  {
+    "name": "unu GmbH",
+    "year-founded": "?",
+    "industry": "Electric Mobility and Urban Mobility",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/unu-ug/jobs"
+  },
+  {
+    "name": "wefox Germany GmbH",
+    "year-founded": "?",
+    "industry": "InsurTech and Digital Insurance",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/wefox/jobs"
+  },
+  {
+    "name": "Styla GmbH",
+    "year-founded": "?",
+    "industry": "Content Commerce and Digital Marketing",
+    "city": "Berlin",
+    "number-of-employees": "50-99",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/styla-com/jobs"
+  },
+  {
+    "name": "Camunda Services GmbH",
+    "year-founded": "?",
+    "industry": "Business Process Automation and Workflow Management",
+    "city": "Berlin",
+    "number-of-employees": "250-499",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/camunda/jobs"
+  },
+  {
+    "name": "Airbus Group",
+    "year-founded": "1970",
+    "industry": "Aerospace and Defense",
+    "city": "Hamburg",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/showcase/airbus/jobs"
+  },
+  {
+    "name": "Montblanc International GmbH",
+    "year-founded": "1906",
+    "industry": "Luxury Goods and Writing Instruments",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/montblanc/jobs"
+  },
+  {
+    "name": "OTTO GmbH & Co. KG",
+    "year-founded": "1949",
+    "industry": "E-commerce and Retail",
+    "city": "Hamburg",
+    "number-of-employees": "5000-9999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/otto/jobs"
+  },
+  {
+    "name": "Tchibo GmbH",
+    "year-founded": "1949",
+    "industry": "Retail and Consumer Goods",
+    "city": "Hamburg",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/tchibo/jobs"
+  },
+  {
+    "name": "Jungheinrich AG",
+    "year-founded": "1953",
+    "industry": "Material Handling and Intralogistics",
+    "city": "Hamburg",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/jungheinrich-ag/jobs"
+  },
+  {
+    "name": "Aurubis AG",
+    "year-founded": "1866",
+    "industry": "Metal Processing and Recycling",
+    "city": "Hamburg",
+    "number-of-employees": "5000-9999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/aurubis/jobs"
+  },
+  {
+    "name": "Gruner + Jahr GmbH",
+    "year-founded": "1948",
+    "industry": "Media and Publishing",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/gruner-jahr-gmbh/jobs"
+  },
+  {
+    "name": "Eppendorf AG",
+    "year-founded": "1945",
+    "industry": "Biotechnology and Life Sciences",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/eppendorf/jobs"
+  },
+  {
+    "name": "Körber AG",
+    "year-founded": "2018",
+    "industry": "Supply Chain Solutions and Technology",
+    "city": "Hamburg",
+    "number-of-employees": "5000-9999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/k%C3%B6rber/jobs"
+  },
+  {
+    "name": "DESY (Deutsches Elektronen-Synchrotron)",
+    "year-founded": "1959",
+    "industry": "Research and Particle Physics",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/desy/jobs"
+  },
+  {
+    "name": "Hapag-Lloyd AG",
+    "year-founded": "1970",
+    "industry": "Shipping and Logistics",
+    "city": "Hamburg",
+    "number-of-employees": "5000-9999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hapag-lloyd-ag/jobs"
+  },
+  {
+    "name": "Hermes Germany GmbH",
+    "year-founded": "1972",
+    "industry": "E-commerce and Logistics",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hermes/jobs"
+  },
+  {
+    "name": "XING SE",
+    "year-founded": "2003",
+    "industry": "Professional Networking and Career Services",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/xing-marketing-solutions-gmbh/jobs"
+  },
+  {
+    "name": "Haspa Finanzholding",
+    "year-founded": "1827",
+    "industry": "Banking and Financial Services",
+    "city": "Hamburg",
+    "number-of-employees": "1000-4999",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hamburger-sparkasse/jobs"
+  },
+  {
+    "name": "Gerresheimer AG",
+    "year-founded": "1864",
+    "industry": "Healthcare",
+    "city": "Düsseldorf",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/gerresheimer/jobs"
+  },
+  {
+    "name": "C&A Mode GmbH & Co. KG",
+    "year-founded": "1841",
+    "industry": "Retail",
+    "city": "Düsseldorf",
+    "number-of-employees": "35000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/c-&-a-mode-gmbh-&-co.-kg/jobs"
+  },
+  {
+    "name": "GEA Group AG",
+    "year-founded": "1881",
+    "industry": "Industrial Equipment",
+    "city": "Düsseldorf",
+    "number-of-employees": "19000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/geagroup/jobs"
+  },
+  {
+    "name": "Trivago GmbH",
+    "year-founded": "2005",
+    "industry": "Online Travel",
+    "city": "Düsseldorf",
+    "number-of-employees": "1400",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/trivagonv/jobs"
+  },
+  {
+    "name": "Klöckner & Co SE",
+    "year-founded": "1906",
+    "industry": "Metal Processing",
+    "city": "Düsseldorf",
+    "number-of-employees": "8000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kl%C3%B6ckner-&-co-se/jobs"
+  },
+  {
+    "name": "Qiagen GmbH",
+    "year-founded": "1984",
+    "industry": "Biotechnology",
+    "city": "Düsseldorf",
+    "number-of-employees": "5600",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/qiagen/jobs"
+  },
+  {
+    "name": "SICK AG",
+    "year-founded": "1946",
+    "industry": "Sensors",
+    "city": "Düsseldorf",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sicksensorintelligence/jobs"
+  },
+  {
+    "name": "Talanx AG",
+    "year-founded": "1903",
+    "industry": "Insurance",
+    "city": "Düsseldorf",
+    "number-of-employees": "23000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/talanx/jobs"
+  },
+  {
+    "name": "Amprion GmbH",
+    "year-founded": "2009",
+    "industry": "Energy",
+    "city": "Düsseldorf",
+    "number-of-employees": "1700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/amprion-gmbh/jobs"
+  },
+  {
+    "name": "AWISTA Gesellschaft für Abfallwirtschaft und Stadtreinigung mbH",
+    "year-founded": "1989",
+    "industry": "Waste Management",
+    "city": "Düsseldorf",
+    "number-of-employees": "1800",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/awista-gesellschaft-f%C3%A3%C2%BCr-abfallwirtschaft-und-stadtreinigung-mbh/jobs"
+  },
+  {
+    "name": "GESCO AG",
+    "year-founded": "1977",
+    "industry": "Industrial Services",
+    "city": "Düsseldorf",
+    "number-of-employees": "1100",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/gesco/jobs"
+  },
+  {
+    "name": "RHEINPFALZ Verlag und Druckerei GmbH & Co. KG",
+    "year-founded": "1946",
+    "industry": "Media",
+    "city": "Düsseldorf",
+    "number-of-employees": "1300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rheinpfalz-verlag-und-druckerei-gmbh-&-co.-kg/jobs"
+  },
+  {
+    "name": "Käte Ahlmann Stiftung GmbH",
+    "year-founded": "1972",
+    "industry": "Non-profit",
+    "city": "Düsseldorf",
+    "number-of-employees": "N/A",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/eggelbusch-gmbh/jobs"
+  },
+  {
+    "name": "MAN SE",
+    "year-founded": "1758",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "35708",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/man-commercial-vehicles/jobs"
+  },
+  {
+    "name": "HypoVereinsbank - Unicredit Bank AG",
+    "year-founded": "1998",
+    "industry": "Banking",
+    "city": "Munich",
+    "number-of-employees": "18500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hypovereinsbank-unicredit-bank-ag/jobs"
+  },
+  {
+    "name": "ADAC SE",
+    "year-founded": "1903",
+    "industry": "Automotive Services",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/adac/jobs"
+  },
+  {
+    "name": "Giesecke+Devrient GmbH",
+    "year-founded": "1852",
+    "industry": "Security Technology",
+    "city": "Munich",
+    "number-of-employees": "11000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/giesecke-devrient/jobs"
+  },
+  {
+    "name": "Knorr-Bremse Systeme für Nutzfahrzeuge GmbH",
+    "year-founded": "2002",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "1800",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/knorr-bremse-systeme-f%C3%BCr-nutzfahrzeuge-gmbh/jobs"
+  },
+  {
+    "name": "Rohde & Schwarz GmbH & Co KG",
+    "year-founded": "1933",
+    "industry": "Electronics",
+    "city": "Munich",
+    "number-of-employees": "12000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rohde-&-schwarz/jobs"
+  },
+  {
+    "name": "Munich Airport",
+    "year-founded": "1948",
+    "industry": "Aviation",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/munich-airport-international-gmbh/jobs"
+  },
+  {
+    "name": "Konica Minolta Business Solutions Europe GmbH",
+    "year-founded": "2006",
+    "industry": "Office Solutions",
+    "city": "Munich",
+    "number-of-employees": "2500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/konica-minolta-business-solutions-europe-gmbh/jobs"
+  },
+  {
+    "name": "Altran Deutschland S.A.S. & Co. KG",
+    "year-founded": "1982",
+    "industry": "Engineering",
+    "city": "Munich",
+    "number-of-employees": "50000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/altran/jobs"
+  },
+  {
+    "name": "Metaio GmbH",
+    "year-founded": "2003",
+    "industry": "Augmented Reality",
+    "city": "Munich",
+    "number-of-employees": "N/A",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/metaio/jobs"
+  },
+  {
+    "name": "KraussMaffei Group GmbH",
+    "year-founded": "1838",
+    "industry": "Machinery",
+    "city": "Munich",
+    "number-of-employees": "5500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/krauss-maffei/jobs"
+  },
+  {
+    "name": "The Boston Consulting Group GmbH",
+    "year-founded": "1963",
+    "industry": "Consulting",
+    "city": "Munich",
+    "number-of-employees": "18500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/boston-consulting-group/jobs"
+  },
+  {
+    "name": "All for One Group AG",
+    "year-founded": "1984",
+    "industry": "IT Services",
+    "city": "Munich",
+    "number-of-employees": "1700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/all-for-one-group-se/jobs"
+  },
+  {
+    "name": "BFFT GmbH",
+    "year-founded": "1998",
+    "industry": "Automotive Engineering",
+    "city": "Munich",
+    "number-of-employees": "800",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/edaggroup/jobs"
+  },
+  {
+    "name": "ERGO Group AG",
+    "year-founded": "1997",
+    "industry": "Insurance",
+    "city": "Munich",
+    "number-of-employees": "3700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/ergo-group-ag/jobs"
+  },
+  {
+    "name": "Hubert Burda Media",
+    "year-founded": "1898",
+    "industry": "Media",
+    "city": "Munich",
+    "number-of-employees": "12500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hubert-burda-media/jobs"
+  },
+  {
+    "name": "Dallmeier electronic GmbH & Co. KG",
+    "year-founded": "1984",
+    "industry": "Video Surveillance",
+    "city": "Munich",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dallmeier-electronic/jobs"
+  },
+  {
+    "name": "Nemetschek Group",
+    "year-founded": "1963",
+    "industry": "Software",
+    "city": "Munich",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/nemetschekgroup/jobs"
+  },
+  {
+    "name": "Knauf Gips KG",
+    "year-founded": "1932",
+    "industry": "Building Materials",
+    "city": "Munich",
+    "number-of-employees": "35000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/knauf-gips-kg/jobs"
+  },
+  {
+    "name": "ATOS IT Solutions and Services GmbH",
+    "year-founded": "1997",
+    "industry": "IT Services",
+    "city": "Munich",
+    "number-of-employees": "100000+",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/atos-it-solutions-and-services-a-s/jobs"
+  },
+  {
+    "name": "MicroNova AG",
+    "year-founded": "1987",
+    "industry": "Automotive Electronics",
+    "city": "Munich",
+    "number-of-employees": "700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/micronova/jobs"
+  },
+  {
+    "name": "Secunet Security Networks AG",
+    "year-founded": "1997",
+    "industry": "IT Security",
+    "city": "Munich",
+    "number-of-employees": "800",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/secunet-security-networks-ag/jobs"
+  },
+  {
+    "name": "ESG Elektroniksystem- und Logistik-GmbH",
+    "year-founded": "1967",
+    "industry": "Defense and Aviation",
+    "city": "Munich",
+    "number-of-employees": "3500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/esg-gmbh/jobs"
+  },
+  {
+    "name": "Nemak Europe GmbH",
+    "year-founded": "1979",
+    "industry": "Automotive",
+    "city": "Munich",
+    "number-of-employees": "27000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/nemak/jobs"
+  },
+  {
+    "name": "Sandoz GmbH",
+    "year-founded": "1886",
+    "industry": "Pharmaceuticals",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sandoz/jobs"
+  },
+  {
+    "name": "REWE Group",
+    "year-founded": "1927",
+    "industry": "Retail",
+    "city": "Munich",
+    "number-of-employees": "300000+",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/rewegroup/jobs"
+  },
+  {
+    "name": "KPMG AG",
+    "year-founded": "1890",
+    "industry": "Professional Services",
+    "city": "Munich",
+    "number-of-employees": "20000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/kpmg-deutschland/jobs"
+  },
+  {
+    "name": "Unify Communications GmbH & Co. KG",
+    "year-founded": "1847",
+    "industry": "Communications",
+    "city": "Munich",
+    "number-of-employees": "N/A",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/unify-communications-and-collaboration-gmbh-&-co.-kg-/jobs"
+  },
+  {
+    "name": "Sixt SE",
+    "year-founded": "1912",
+    "industry": "Car Rental",
+    "city": "Munich",
+    "number-of-employees": "7000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sixt/jobs"
+  },
+  {
+    "name": "Hubert Haupt Immobilien Holding GmbH",
+    "year-founded": "1957",
+    "industry": "Real Estate",
+    "city": "Munich",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/hubert-haupt-immobilien-holding/jobs"
+  },
+  {
+    "name": "Linde Material Handling GmbH",
+    "year-founded": "1904",
+    "industry": "Material Handling",
+    "city": "Munich",
+    "number-of-employees": "12000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/linde-material-handling/jobs"
+  },
+  {
+    "name": "Santander Consumer Bank AG",
+    "year-founded": "1957",
+    "industry": "Banking",
+    "city": "Munich",
+    "number-of-employees": "13000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/nadia-taurino-finanziamenti/jobs"
+  },
+  {
+    "name": "DELO Industrial Adhesives",
+    "year-founded": "1961",
+    "industry": "Adhesives",
+    "city": "Munich",
+    "number-of-employees": "700",
+    "country": "Germany",
+    "linkedin": "https://de.linkedin.com/company/delo-industrial-adhesives/jobs"
+  },
+  {
+    "name": "MCM Klosterfrau Vertriebsgesellschaft mbH",
+    "year-founded": "1826",
+    "industry": "Healthcare",
+    "city": "Munich",
+    "number-of-employees": "2000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mcm-klosterfrau-vertriebsgesellschaft-mbh/jobs"
+  },
+  {
+    "name": "Technische Universität München (TUM)",
+    "year-founded": "1868",
+    "industry": "Education",
+    "city": "Munich",
+    "number-of-employees": "N/A",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/technische-universitat-munchen/jobs"
+  },
+  {
+    "name": "DocuWare GmbH",
+    "year-founded": "1988",
+    "industry": "Document Management",
+    "city": "Munich",
+    "number-of-employees": "400",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/docuware-corporation/jobs"
+  },
+  {
+    "name": "Limbach Gruppe SE",
+    "year-founded": "1997",
+    "industry": "Engineering",
+    "city": "Munich",
+    "number-of-employees": "1500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/limbach-gruppe-se/jobs"
+  },
+  {
+    "name": "ABALON Recruitment GmbH",
+    "year-founded": "1986",
+    "industry": "Recruitment",
+    "city": "Munich",
+    "number-of-employees": "100",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/abalon-group/jobs"
+  },
+  {
+    "name": "Flughafen München GmbH",
+    "year-founded": "1948",
+    "industry": "Aviation",
+    "city": "Munich",
+    "number-of-employees": "10000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/munich-airport/jobs"
+  },
+  {
+    "name": "Candis GmbH",
+    "year-founded": "2015",
+    "industry": "Software",
+    "city": "Berlin",
+    "number-of-employees": "100",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/candis-gmbh/jobs"
+  },
+  {
+    "name": "OneFootball GmbH",
+    "year-founded": "2008",
+    "industry": "Software",
+    "city": "Berlin",
+    "number-of-employees": "500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/onefootball/jobs"
+  },
+  {
+    "name": "Check24",
+    "year-founded": "1999",
+    "industry": "Technology, Information and Internet",
+    "city": "Munich",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh/jobs"
+  },
+  {
+    "name": "Sportradar",
+    "year-founded": "2001",
+    "industry": "Information Services",
+    "city": "St. Gallen",
+    "number-of-employees": "3000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sportradar/jobs"
+  },
+  {
+    "name": "Blinkist",
+    "year-founded": "2012",
+    "industry": "E-Learning Providers",
+    "city": "Berlin",
+    "number-of-employees": "500",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/blinkist/jobs"
+  },
+  {
+    "name": "MBition",
+    "year-founded": "2012",
+    "industry": "Software Development",
+    "city": "Berlin",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mbitiongmbh/jobs"
+  },
+  {
+    "name": "Trade Republic",
+    "year-founded": "2014",
+    "industry": "Financial Services",
+    "city": "Berlin",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/trade-republic/jobs"
+  },
+  {
+    "name": "Holidu",
+    "year-founded": "2014",
+    "industry": "IT Services and IT Consulting",
+    "city": "Munich",
+    "number-of-employees": "700",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/holidu/jobs"
+  },
+  {
+    "name": "Taxdoo",
+    "year-founded": "2016",
+    "industry": "IT Services and IT Consulting",
+    "city": "Hamburg",
+    "number-of-employees": "300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/taxdoo/jobs"
+  },
+  {
+    "name": "Vimcar",
+    "year-founded": "2014",
+    "industry": "IT Services and IT Consulting",
+    "city": "Berlin",
+    "number-of-employees": "200",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/vimcar/jobs"
+  },
+  {
+    "name": "DataGuard",
+    "year-founded": "2018",
+    "industry": "IT Services and IT Consulting",
+    "city": "Munich",
+    "number-of-employees": "300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/dataguard1/jobs"
+  },
+  {
+    "name": "Alasco",
+    "year-founded": "2018",
+    "industry": "Software Development",
+    "city": "Munich",
+    "number-of-employees": "300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/alasco-software/jobs"
+  },
+  {
+    "name": "SENSORY-MINDS GMBH",
+    "year-founded": "2009",
+    "industry": "IT Services and IT Consulting",
+    "city": "Darmstadt",
+    "number-of-employees": "100",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/sensory-minds/jobs"
+  },
+  {
+    "name": "Energy Robotics",
+    "year-founded": "2019",
+    "industry": "Automation Machinery Manufacturing",
+    "city": "Darmstadt",
+    "number-of-employees": "100",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/energy-robotics/jobs"
+  },
+  {
+    "name": "AppsFactory",
+    "year-founded": "2009",
+    "industry": "IT Services and IT Consulting",
+    "city": "Leipzig",
+    "number-of-employees": "300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/appsfactory/jobs"
+  },
+  {
+    "name": "OWWN",
+    "year-founded": "2018",
+    "industry": "Social Networking Platforms",
+    "city": "Berlin",
+    "number-of-employees": "50",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/owwnapp/jobs"
+  },
+  {
+    "name": "Solvians",
+    "year-founded": "2006",
+    "industry": "Information Technology & Services",
+    "city": "Frankfurt",
+    "number-of-employees": "79",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/solvians-it-solutions-gmbh/jobs"
+  },
+  {
+    "name": "Babbel",
+    "year-founded": "2007",
+    "industry": "E-Learning Providers",
+    "city": "Berlin",
+    "number-of-employees": "1300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/babbel-com/jobs"
+  },
+  {
+    "name": "Adjust",
+    "year-founded": "2012",
+    "industry": "Advertising Services",
+    "city": "Berlin",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/adjustcom/jobs"
+  },
+  {
+    "name": "Gameforge",
+    "year-founded": "2003",
+    "industry": "Computer Games",
+    "city": "Karlsruhe",
+    "number-of-employees": "400",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/gameforge/jobs"
+  },
+  {
+    "name": "The unbelievable Machine Company GmbH",
+    "year-founded": "2008",
+    "industry": "IT Services and IT Consulting",
+    "city": "Berlin",
+    "number-of-employees": "50",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/the-unbelievable-machine-company-gmbh/jobs"
+  },
+  {
+    "name": "Scout24 Group",
+    "year-founded": "2012",
+    "industry": "Technology, Information and Internet",
+    "city": "Munich",
+    "number-of-employees": "1000",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/scout24-group/jobs"
+  },
+  {
+    "name": "Mercedes-Benz Leasing Deutschland",
+    "year-founded": "2020",
+    "industry": "Financial Services",
+    "city": "Stuttgart",
+    "number-of-employees": "300",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/mercedes-benz-leasing-deutschland/jobs"
+  },
+  {
+    "name": "JITpay™ Group",
+    "year-founded": "2016",
+    "industry": "Financial Services",
+    "city": "Braunschweig",
+    "number-of-employees": "80",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/jitpay-gmbh/jobs"
+  },
+  {
+    "name": "Pixida",
+    "year-founded": "2008",
+    "industry": "Information Technology & Services",
+    "city": "Munich",
+    "number-of-employees": "200",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/pixida-gmbh/jobs/"
+  },
+  {
+    "name": "Enmacc",
+    "year-founded": "2016",
+    "industry": "Software Development",
+    "city": "Munich",
+    "number-of-employees": "200",
+    "country": "Germany",
+    "linkedin": "https://www.linkedin.com/company/enmacc/jobs/"
+  }
+]

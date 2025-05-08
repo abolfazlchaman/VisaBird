@@ -1,0 +1,56 @@
+[
+  {
+    "name": "GameCare",
+    "year-founded": "1997",
+    "industry": "Non-profit Organizations",
+    "city": "London",
+    "number-of-employees": "500",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/gamcare/jobs"
+  },
+  {
+    "name": "Vodafone",
+    "year-founded": "1982",
+    "industry": "Telecommunications",
+    "city": "London",
+    "number-of-employees": "130000",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/vodafone/jobs"
+  },
+  {
+    "name": "Geeks LTD",
+    "year-founded": "2007",
+    "industry": "IT Services and IT Consulting",
+    "city": "Sutton",
+    "number-of-employees": "200",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/geeks-ltd/jobs"
+  },
+  {
+    "name": "Unilever",
+    "year-founded": "1872",
+    "industry": "Manufacturing",
+    "city": "Blackfriars",
+    "number-of-employees": "110000",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/unilever/jobs"
+  },
+  {
+    "name": "Wise",
+    "year-founded": "2011",
+    "industry": "Financial Services",
+    "city": "London",
+    "number-of-employees": "5000",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/wiseaccount/jobs"
+  },
+  {
+    "name": "Jaja Finance",
+    "year-founded": "2016",
+    "industry": "Financial Services",
+    "city": "London",
+    "number-of-employees": "200",
+    "country": "United Kingdom",
+    "linkedin": "https://www.linkedin.com/company/jaja-finance/jobs"
+  }
+]

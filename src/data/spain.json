@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amadeus",
+    "year-founded": "2000",
+    "industry": "IT Services and IT Consulting",
+    "city": "Madrid",
+    "number-of-employees": "16000",
+    "country": "Spain",
+    "linkedin": "https://www.linkedin.com/company/amadeus/jobs"
+  },
+  {
+    "name": "eDreams ODIGEO",
+    "year-founded": "2000",
+    "industry": "Travel and E-commerce",
+    "city": "Barcelona",
+    "number-of-employees": "5000",
+    "country": "Spain",
+    "linkedin": "https://www.linkedin.com/company/edreamsodigeo/about/"
+  }  
+]
