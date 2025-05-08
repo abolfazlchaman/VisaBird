@@ -43,14 +43,6 @@ export function MobileNav({
             </li>
             <li>
               <a
-                href='#how-it-works'
-                className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
-                onClick={() => setIsOpen(false)}>
-                How It Works
-              </a>
-            </li>
-            <li>
-              <a
                 href='#features'
                 className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
                 onClick={() => setIsOpen(false)}>
@@ -59,18 +51,10 @@ export function MobileNav({
             </li>
             <li>
               <a
-                href='#testimonials'
+                href='#how-it-works'
                 className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
                 onClick={() => setIsOpen(false)}>
-                Success Stories
-              </a>
-            </li>
-            <li>
-              <a
-                href='#for-employers'
-                className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
-                onClick={() => setIsOpen(false)}>
-                For Employers
+                How It Works
               </a>
             </li>
             <li>
@@ -79,6 +63,22 @@ export function MobileNav({
                 className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
                 onClick={() => setIsOpen(false)}>
                 About
+              </a>
+            </li>
+            <li>
+              <a
+                href='#employers'
+                className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
+                onClick={() => setIsOpen(false)}>
+                For Employers
+              </a>
+            </li>
+            <li>
+              <a
+                href='#testimonials'
+                className='block text-2xl text-gray-700 dark:text-gray-300 hover:text-indigo-700 dark:hover:text-indigo-400'
+                onClick={() => setIsOpen(false)}>
+                Success Stories
               </a>
             </li>
             <li>
