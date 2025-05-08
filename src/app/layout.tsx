@@ -1,39 +1,29 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono } from 'next/font/google';
-import { ThemeProvider } from 'next-themes';
+import { Inter } from 'next/font/google';
+import { ThemeProvider } from '@/components/theme-provider';
 import './globals.css';
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-});
-
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-});
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Visabird - Global Job Opportunities',
-  description: 'Find international job opportunities with visa sponsorship',
+  title: 'VisaBird - Find Visa Sponsorship Opportunities',
+  description: 'Find companies that sponsor work visas in the UK, Canada, Germany, and more.',
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html
       lang='en'
       suppressHydrationWarning>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <ThemeProvider
-          attribute='class'
-          defaultTheme='system'
-          enableSystem
-          disableTransitionOnChange>
-          {children}
+      <head>
+        <link
+          rel='stylesheet'
+          href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css'
+        />
+      </head>
+      <body className={inter.className}>
+        <ThemeProvider>
+          <div className='min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900'>{children}</div>
         </ThemeProvider>
       </body>
     </html>
