@@ -2,8 +2,9 @@
   "name": "visabird",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@9.9.2",
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "next dev --turbopack",
