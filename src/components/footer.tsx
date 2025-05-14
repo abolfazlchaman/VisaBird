@@ -73,20 +73,21 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Connect</h4>
             <div className="flex space-x-4 mb-4">
+              <Link href="mailto:help@visabird.work">help@visabird.work</Link>
               <Link
-                href="https://twitter.com/visabird"
+                href="mailto:help@visabird.work"
                 className="text-gray-400 hover:text-white transition"
               >
-                <i className="fab fa-twitter text-xl"></i>
+                <i className="fa-solid fa-envelope text-xl"></i>
               </Link>
-              <Link
+              {/* <Link
                 href="https://linkedin.com/company/visabird"
                 className="text-gray-400 hover:text-white transition"
               >
                 <i className="fab fa-linkedin text-xl"></i>
-              </Link>
+              </Link> */}
               <Link
-                href="https://github.com/visabird"
+                href="https://github.com/abolfazlchaman/VisaBird/"
                 className="text-gray-400 hover:text-white transition"
               >
                 <i className="fab fa-github text-xl"></i>
@@ -110,9 +111,7 @@ export function Footer() {
           <p className="text-gray-400 mb-4 md:mb-0">
             © {currentYear} VisaBird. All rights reserved.
           </p>
-          <p className="text-gray-400">
-            Made with <i className="fas fa-heart text-red-400"></i> by the VisaBird team
-          </p>
+          <p className="text-gray-400">Made with 🤍 by the VisaBird team</p>
         </div>
       </div>
     </footer>
