@@ -164,7 +164,10 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
           >
             <SelectValue placeholder="Select country" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
+          <SelectContent
+            position="item-aligned"
+            className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700"
+          >
             {COUNTRIES.map(country => (
               <SelectItem
                 key={country}
@@ -192,7 +195,10 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
           >
             <SelectValue placeholder="Select industry" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
+          <SelectContent
+            position="item-aligned"
+            className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700"
+          >
             {INDUSTRIES.map(industry => (
               <SelectItem
                 key={industry}
@@ -234,7 +240,10 @@ export function JobSearch({ initialFilters }: JobSearchProps) {
           <SelectTrigger className="bg-white dark:bg-gray-700 border-slate-200 dark:border-gray-600 text-gray-900 dark:text-white">
             <SelectValue placeholder="Select employee range" />
           </SelectTrigger>
-          <SelectContent className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700">
+          <SelectContent
+            position="item-aligned"
+            className="bg-white dark:bg-gray-800 border-slate-200 dark:border-gray-700"
+          >
             {EMPLOYEE_RANGES.map(range => (
               <SelectItem
                 key={range.label}
