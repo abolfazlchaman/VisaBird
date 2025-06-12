@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://visabird.work/sitemap.xml 
+
+# Sitemap
+Sitemap: https://www.visabird.work/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 
